@@ -1,0 +1,595 @@
+all/AttnGAN_normal_002.jpg	0.195283431	0.506802093	man lost in space
+all/AttnGAN_normal_003.jpg	1.075006252	0.207691414	a cosmic universe
+all/AttnGAN_normal_005.jpg	1.106599613	0.70896187	house of the dragon
+all/AttnGAN_normal_016.jpg	1.174495727	0.541980536	very sad rabbit crying
+all/AttnGAN_normal_028.jpg	1.527555519	0.686697692	maroon to black gradient
+all/AttnGAN_normal_034.jpg	1.508930173	0.385017296	rat portrait as a warrior
+all/AttnGAN_normal_039.jpg	1.247523795	0.945308415	beautiful topaz girl dark
+all/AttnGAN_normal_042.jpg	1.253245361	1.004686321	a man jumping off a cliff
+all/AttnGAN_normal_051.jpg	1.062470367	0.981735619	hanging gardens of babylon
+all/AttnGAN_normal_052.jpg	1.168900836	0.845084862	concept art of giant ogres
+all/AttnGAN_normal_055.jpg	1.161804194	0.504397017	a small ocean full of life
+all/AttnGAN_normal_059.jpg	0.753539821	0.441791736	barak obama as master chief
+all/AttnGAN_normal_060.jpg	0.919776796	0.850496237	artwork with only triangles, anime style
+all/AttnGAN_normal_067.jpg	1.042384048	0.457481316	a woman in newspaper clothes, realistic style
+all/AttnGAN_normal_068.jpg	0.685643707	0.497452181	yog sothoth chef in a kitchen, abstract style
+all/AttnGAN_normal_072.jpg	1.086342024	0.623776738	painted portrait of snake man, realistic style
+all/AttnGAN_normal_077.jpg	1.119807896	0.257352514	a anthropomorphic cat warrior, realistic style
+all/AttnGAN_normal_079.jpg	1.402772373	1.004566026	the infernal dark gun magicks , baroque style
+all/AttnGAN_normal_084.jpg	0.875752826	0.541980536	sheep that looks like broccoli, baroque style
+all/AttnGAN_normal_088.jpg	1.22513052	1.02748653	a space shuttle flying in space, abstract style
+all/AttnGAN_normal_093.jpg	1.478164096	0.696883506	photo of tony danza eating chili, abstract style
+all/AttnGAN_normal_100.jpg	1.178897031	1.02123126	a small garden buzzing with bees, anime style
+all/AttnGAN_normal_103.jpg	0.929924681	0.78808434	a giant rock floating in the air, abstract style
+all/AttnGAN_normal_104.jpg	0.784493346	0.468583101	a biomechanical cybertronic frog, baroque style
+all/AttnGAN_normal_113.jpg	0.879514179	0.731596555	epic colourful scene from a dream, abstract style
+all/AttnGAN_normal_114.jpg	1.038703499	0.631037248	donut glazed with white chocolate, baroque style
+all/AttnGAN_normal_115.jpg	1.112671152	1.278288824	ocean of canvas that catches fire, anime style
+all/AttnGAN_normal_127.jpg	0.663293231	0.283979284	robots building robots in a factory, hyper detail
+all/AttnGAN_normal_132.jpg	1.29901447	0.158030314	a girl with rainbow in white shirt , top view
+all/AttnGAN_normal_136.jpg	0.778016184	0.617236002	man in his late 40 s wearing a suit, blurred detail
+all/AttnGAN_normal_143.jpg	0.735230234	0.653813422	portrait of squids swarming the ocean, elevation view
+all/AttnGAN_normal_149.jpg	0.792278167	1.56824891	a plasticine model of a goblin raider, HDR lighting
+all/AttnGAN_normal_151.jpg	1.147337281	0.786886493	photo of a white fashion jewelry store, cold color
+all/AttnGAN_normal_152.jpg	0.735230234	0.678198368	grumpy the elder gods sitting in a bar, top view
+all/AttnGAN_normal_158.jpg	0.912778941	0.968570405	photograph of a stone cairn in scotland, soft lighting
+all/AttnGAN_normal_163.jpg	0.929411321	0.968570405	a portrait of girl boxer in a red dress, elevation view
+all/AttnGAN_normal_164.jpg	0.812984657	0.362970567	a pig sitting in a chair smoking a pipe, close-up
+all/AttnGAN_normal_165.jpg	1.197015678	0.685483402	a female hand holding a red fresh apple, long-shot
+all/AttnGAN_normal_166.jpg	1.284080589	0.74154824	a cybertronic metallic green tree frog , blurred detail
+all/AttnGAN_normal_190.jpg	0.875752826	0.831414849	delicious peanut butter donut with glazing , warm color, anime style
+all/AttnGAN_normal_203.jpg	1.168900836	0.810884549	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/AttnGAN_normal_204.jpg	0.821435934	0.853679026	2 friends partying and are facing the camera, close-up, baroque style
+all/AttnGAN_normal_205.jpg	1.575270793	0.850496237	the fate of all fools and divine intervention, long-shot, anime style
+all/AttnGAN_normal_209.jpg	0.995787421	0.552148905	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/AttnGAN_normal_217.jpg	1.191989061	0.552148905	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/AttnGAN_normal_224.jpg	0.633569007	0.778970376	lovers being pulled apart across space and time, warm color, close-up
+all/AttnGAN_normal_226.jpg	1.403283136	1.471372759	an anatomically correct cybertronic human heart, cold color, close-up
+all/AttnGAN_normal_230.jpg	1.248661629	0.702583315	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/AttnGAN_normal_234.jpg	1.075025374	0.755684059	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/AttnGAN_normal_236.jpg	0.935417685	0.361141351	short - haired short butch tomboy blonde engineer, top view, close-up
+all/AttnGAN_normal_238.jpg	0.705005947	0.560082254	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/AttnGAN_normal_244.jpg	0.549851479	0.39726338	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/AttnGAN_normal_254.jpg	1.179543421	0.369089989	portrait of beautiful woman with magical nebula hair, long-shot, soft lighting
+all/AttnGAN_normal_261.jpg	0.865931916	0.828455166	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/AttnGAN_normal_266.jpg	1.056441469	0.822284653	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/AttnGAN_normal_267.jpg	1.112367509	0.902744335	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/AttnGAN_normal_273.jpg	0.731526985	1.759600793	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/AttnGAN_normal_284.jpg	0.471280904	0.838644715	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/AttnGAN_normal_285.jpg	0.701659223	0.282183064	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/AttnGAN_normal_296.jpg	0.902911271	0.976132005	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style
+all/DALLE2_normal_002.jpg	2.855791343	2.908503737	man lost in space
+all/DALLE2_normal_003.jpg	3.274576995	3.641108818	a cosmic universe
+all/DALLE2_normal_005.jpg	3.430745058	3.202040316	house of the dragon
+all/DALLE2_normal_016.jpg	2.790423236	3.569908726	very sad rabbit crying
+all/DALLE2_normal_028.jpg	1.104874015	1.809261893	maroon to black gradient
+all/DALLE2_normal_034.jpg	2.686140018	2.366720668	rat portrait as a warrior
+all/DALLE2_normal_039.jpg	2.674859949	2.568031711	beautiful topaz girl dark
+all/DALLE2_normal_042.jpg	3.231077294	2.958190852	a man jumping off a cliff
+all/DALLE2_normal_051.jpg	2.927618961	2.139899198	hanging gardens of babylon
+all/DALLE2_normal_052.jpg	2.92075847	3.078582412	concept art of giant ogres
+all/DALLE2_normal_055.jpg	3.001476926	2.963882471	a small ocean full of life
+all/DALLE2_normal_060.jpg	2.817259418	1.715657358	artwork with only triangles, anime style
+all/DALLE2_normal_068.jpg	2.293736737	1.793698006	yog sothoth chef in a kitchen, abstract style
+all/DALLE2_normal_072.jpg	3.174029361	2.37295214	painted portrait of snake man, realistic style
+all/DALLE2_normal_077.jpg	2.765509892	3.2326522	a anthropomorphic cat warrior, realistic style
+all/DALLE2_normal_079.jpg	2.491680335	2.90198339	the infernal dark gun magicks , baroque style
+all/DALLE2_normal_084.jpg	2.92075847	3.256355245	sheep that looks like broccoli, baroque style
+all/DALLE2_normal_088.jpg	3.334754679	3.517088733	a space shuttle flying in space, abstract style
+all/DALLE2_normal_093.jpg	2.476240979	3.227706657	photo of tony danza eating chili, abstract style
+all/DALLE2_normal_100.jpg	2.248459435	3.274006549	a small garden buzzing with bees, anime style
+all/DALLE2_normal_103.jpg	3.162256259	3.1259885	a giant rock floating in the air, abstract style
+all/DALLE2_normal_104.jpg	2.686140018	3.154626828	a biomechanical cybertronic frog, baroque style
+all/DALLE2_normal_113.jpg	0.889332048	1.44367974	epic colourful scene from a dream, abstract style
+all/DALLE2_normal_114.jpg	2.837204233	2.790068621	donut glazed with white chocolate, baroque style
+all/DALLE2_normal_115.jpg	1.696019687	2.094906068	ocean of canvas that catches fire, anime style
+all/DALLE2_normal_127.jpg	3.091620808	3.259317616	robots building robots in a factory, hyper detail
+all/DALLE2_normal_132.jpg	3.402221092	3.64096935	a girl with rainbow in white shirt , top view
+all/DALLE2_normal_136.jpg	3.108728168	3.154626828	man in his late 40 s wearing a suit, blurred detail
+all/DALLE2_normal_143.jpg	1.463652872	1.805635978	portrait of squids swarming the ocean, elevation view
+all/DALLE2_normal_149.jpg	1.727765593	2.614222137	a plasticine model of a goblin raider, HDR lighting
+all/DALLE2_normal_151.jpg	3.041723666	2.917022056	photo of a white fashion jewelry store, cold color
+all/DALLE2_normal_152.jpg	2.80733647	1.933414643	grumpy the elder gods sitting in a bar, top view
+all/DALLE2_normal_158.jpg	3.207226865	3.3417077	photograph of a stone cairn in scotland, soft lighting
+all/DALLE2_normal_163.jpg	3.718303223	3.001128296	a portrait of girl boxer in a red dress, elevation view
+all/DALLE2_normal_164.jpg	3.403754047	3.635603955	a pig sitting in a chair smoking a pipe, close-up
+all/DALLE2_normal_165.jpg	2.837204233	2.864560271	a female hand holding a red fresh apple, long-shot
+all/DALLE2_normal_166.jpg	1.903017791	3.137840023	a cybertronic metallic green tree frog , blurred detail
+all/DALLE2_normal_190.jpg	2.67293154	3.485324022	delicious peanut butter donut with glazing , warm color, anime style
+all/DALLE2_normal_203.jpg	1.868518107	1.597142136	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/DALLE2_normal_204.jpg	3.576593619	3.453076131	2 friends partying and are facing the camera, close-up, baroque style
+all/DALLE2_normal_205.jpg	1.8940894	2.271926577	the fate of all fools and divine intervention, long-shot, anime style
+all/DALLE2_normal_209.jpg	2.703383915	2.750918808	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/DALLE2_normal_217.jpg	3.537280489	3.358399036	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/DALLE2_normal_224.jpg	2.837204233	2.54176312	lovers being pulled apart across space and time, warm color, close-up
+all/DALLE2_normal_226.jpg	2.825502717	3.153995905	an anatomically correct cybertronic human heart, cold color, close-up
+all/DALLE2_normal_230.jpg	2.299764158	2.960067189	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/DALLE2_normal_234.jpg	3.197799919	2.456699832	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/DALLE2_normal_236.jpg	3.715984722	3.897011287	short - haired short butch tomboy blonde engineer, top view, close-up
+all/DALLE2_normal_244.jpg	2.058266369	2.85340349	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/DALLE2_normal_254.jpg	3.387959109	3.397119887	portrait of beautiful woman with magical nebula hair, long-shot, soft lighting
+all/DALLE2_normal_261.jpg	2.803217798	3.092308057	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/DALLE2_normal_266.jpg	2.630872609	3.056705093	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/DALLE2_normal_267.jpg	2.912636241	3.358399036	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/DALLE2_normal_273.jpg	2.166977719	2.281498001	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/DALLE2_normal_284.jpg	3.593502309	3.149691545	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/DALLE2_normal_285.jpg	3.106014094	2.71557697	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/DALLE2_normal_296.jpg	3.415067484	3.614437081	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style
+all/glide_normal_002.jpg	0.508202054	0.902085383	man lost in space
+all/glide_normal_003.jpg	0.72412361	1.662380313	a cosmic universe
+all/glide_normal_005.jpg	1.539115041	1.698194229	house of the dragon
+all/glide_normal_016.jpg	1.540771109	1.585290614	very sad rabbit crying
+all/glide_normal_028.jpg	1.310287954	1.209905872	maroon to black gradient
+all/glide_normal_034.jpg	0.513601805	0.297144498	rat portrait as a warrior
+all/glide_normal_039.jpg	0.582188173	0.480827465	beautiful topaz girl dark
+all/glide_normal_042.jpg	0.536272256	0.742358137	a man jumping off a cliff
+all/glide_normal_051.jpg	1.428382741	1.60050067	hanging gardens of babylon
+all/glide_normal_052.jpg	1.177351713	1.446324178	concept art of giant ogres
+all/glide_normal_055.jpg	1.614577211	3.082998995	a small ocean full of life
+all/glide_normal_059.jpg	0.635396352	0.288039227	barak obama as master chief
+all/glide_normal_060.jpg	1.063255848	1.507286544	artwork with only triangles, anime style
+all/glide_normal_067.jpg	1.077517831	0.507503744	a woman in newspaper clothes, realistic style
+all/glide_normal_068.jpg	1.432500959	0.497452181	yog sothoth chef in a kitchen, abstract style
+all/glide_normal_072.jpg	0.693938742	1.316179121	painted portrait of snake man, realistic style
+all/glide_normal_077.jpg	1.539115041	2.139899198	a anthropomorphic cat warrior, realistic style
+all/glide_normal_079.jpg	0.247032957	0.43569296	the infernal dark gun magicks , baroque style
+all/glide_normal_084.jpg	1.575270793	1.644548225	sheep that looks like broccoli, baroque style
+all/glide_normal_088.jpg	1.086342024	2.139899198	a space shuttle flying in space, abstract style
+all/glide_normal_093.jpg	0.986154364	1.050286739	photo of tony danza eating chili, abstract style
+all/glide_normal_100.jpg	1.358005834	1.411682898	a small garden buzzing with bees, anime style
+all/glide_normal_103.jpg	0.45479692	1.721981963	a giant rock floating in the air, abstract style
+all/glide_normal_104.jpg	1.632795725	2.178897063	a biomechanical cybertronic frog, baroque style
+all/glide_normal_113.jpg	0.298444431	2.41761037	epic colourful scene from a dream, abstract style
+all/glide_normal_114.jpg	1.448560438	2.402534584	donut glazed with white chocolate, baroque style
+all/glide_normal_115.jpg	0.720968251	0.653813422	ocean of canvas that catches fire, anime style
+all/glide_normal_127.jpg	1.065861944	1.410283473	robots building robots in a factory, hyper detail
+all/glide_normal_132.jpg	1.717163144	1.250574517	a girl with rainbow in white shirt , top view
+all/glide_normal_136.jpg	0.283510549	0.182860864	man in his late 40 s wearing a suit, blurred detail
+all/glide_normal_143.jpg	2.166977719	1.255488616	portrait of squids swarming the ocean, elevation view
+all/glide_normal_149.jpg	1.14671176	1.554938564	a plasticine model of a goblin raider, HDR lighting
+all/glide_normal_151.jpg	1.787427355	2.06489602	photo of a white fashion jewelry store, cold color
+all/glide_normal_152.jpg	0.887752418	1.26688872	grumpy the elder gods sitting in a bar, top view
+all/glide_normal_158.jpg	1.373098268	2.486100389	photograph of a stone cairn in scotland, soft lighting
+all/glide_normal_163.jpg	1.761964787	0.59256494	a portrait of girl boxer in a red dress, elevation view
+all/glide_normal_164.jpg	0.821435934	1.221037961	a pig sitting in a chair smoking a pipe, close-up
+all/glide_normal_165.jpg	1.311956077	0.376135781	a female hand holding a red fresh apple, long-shot
+all/glide_normal_166.jpg	2.403882268	2.811881174	a cybertronic metallic green tree frog , blurred detail
+all/glide_normal_190.jpg	1.704085415	2.490096099	delicious peanut butter donut with glazing , warm color, anime style
+all/glide_normal_203.jpg	0.313378312	0.307013614	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/glide_normal_204.jpg	0.905232817	1.149047512	2 friends partying and are facing the camera, close-up, baroque style
+all/glide_normal_205.jpg	0.363910379	0.204988001	the fate of all fools and divine intervention, long-shot, anime style
+all/glide_normal_209.jpg	1.000336846	0.902946816	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/glide_normal_217.jpg	2.293266536	0.692100914	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/glide_normal_224.jpg	0.712778692	0.791238626	lovers being pulled apart across space and time, warm color, close-up
+all/glide_normal_226.jpg	0.630028469	0.191822787	an anatomically correct cybertronic human heart, cold color, close-up
+all/glide_normal_230.jpg	0.859637576	0.742483923	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/glide_normal_234.jpg	0	0.205947714	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/glide_normal_236.jpg	0.226073291	0.337265407	short - haired short butch tomboy blonde engineer, top view, close-up
+all/glide_normal_238.jpg	0.016192323	0.503081733	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/glide_normal_244.jpg	1.262923612	0.580658583	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/glide_normal_254.jpg	1.733569058	0.556273636	portrait of beautiful woman with magical nebula hair, long-shot, soft lighting
+all/glide_normal_261.jpg	0.929411321	1.113387757	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/glide_normal_266.jpg	0.778016184	1.617018803	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/glide_normal_267.jpg	1.269146708	0.654641315	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/glide_normal_273.jpg	1.063255848	1.812098374	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/glide_normal_284.jpg	1.674967988	1.073086947	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/glide_normal_285.jpg	1.299273321	1.051972114	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/glide_normal_296.jpg	0.979308463	0.428796637	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style
+all/midjourney_lowstep_002.jpg	2.576017007	3.259317616	man lost in space
+all/midjourney_lowstep_003.jpg	1.112671152	2.976904363	a cosmic universe
+all/midjourney_lowstep_005.jpg	2.731010208	2.971918712	house of the dragon
+all/midjourney_lowstep_016.jpg	2.188089699	2.521914306	very sad rabbit crying
+all/midjourney_lowstep_028.jpg	1.877457019	1.482013745	maroon to black gradient
+all/midjourney_lowstep_034.jpg	2.309898917	3.232987189	rat portrait as a warrior
+all/midjourney_lowstep_039.jpg	2.644930029	2.657701443	beautiful topaz girl dark
+all/midjourney_lowstep_042.jpg	2.64254653	1.890135375	a man jumping off a cliff
+all/midjourney_lowstep_051.jpg	2.323921604	3.369510326	hanging gardens of babylon
+all/midjourney_lowstep_052.jpg	1.527555519	2.890851301	concept art of giant ogres
+all/midjourney_lowstep_055.jpg	1.977251303	1.495178959	a small ocean full of life
+all/midjourney_lowstep_059.jpg	3.407636041	3.627943604	barak obama as master chief
+all/midjourney_lowstep_060.jpg	2.852156791	2.689045915	artwork with only triangles, anime style
+all/midjourney_lowstep_067.jpg	2.966953132	2.757266234	a woman in newspaper clothes, realistic style
+all/midjourney_lowstep_068.jpg	1.006207915	1.458516652	yog sothoth chef in a kitchen, abstract style
+all/midjourney_lowstep_072.jpg	2.844740127	2.846322945	painted portrait of snake man, realistic style
+all/midjourney_lowstep_077.jpg	2.888789697	3.40931236	a anthropomorphic cat warrior, realistic style
+all/midjourney_lowstep_079.jpg	1.954767317	2.118609113	the infernal dark gun magicks , baroque style
+all/midjourney_lowstep_084.jpg	1.991888058	3.429200187	sheep that looks like broccoli, baroque style
+all/midjourney_lowstep_088.jpg	1.946610757	3.142688856	a space shuttle flying in space, abstract style
+all/midjourney_lowstep_093.jpg	3.116981428	2.702148916	photo of tony danza eating chili, abstract style
+all/midjourney_lowstep_100.jpg	1.295323696	2.219265721	a small garden buzzing with bees, anime style
+all/midjourney_lowstep_103.jpg	1.48681785	3.158021435	a giant rock floating in the air, abstract style
+all/midjourney_lowstep_104.jpg	2.505030811	3.178502772	a biomechanical cybertronic frog, baroque style
+all/midjourney_lowstep_113.jpg	0.977683949	2.568031711	epic colourful scene from a dream, abstract style
+all/midjourney_lowstep_114.jpg	2.420513052	3.493385689	donut glazed with white chocolate, baroque style
+all/midjourney_lowstep_115.jpg	1.644270161	1.952687802	ocean of canvas that catches fire, anime style
+all/midjourney_lowstep_127.jpg	0.60927964	1.194190381	robots building robots in a factory, hyper detail
+all/midjourney_lowstep_132.jpg	2.442957962	2.838030773	a girl with rainbow in white shirt , top view
+all/midjourney_lowstep_136.jpg	2.883906185	3.569709785	man in his late 40 s wearing a suit, blurred detail
+all/midjourney_lowstep_143.jpg	1.731197672	1.688692578	portrait of squids swarming the ocean, elevation view
+all/midjourney_lowstep_149.jpg	2.791787056	3.190440744	a plasticine model of a goblin raider, HDR lighting
+all/midjourney_lowstep_151.jpg	2.355888108	2.946511745	photo of a white fashion jewelry store, cold color
+all/midjourney_lowstep_152.jpg	2.301571217	2.857455034	grumpy the elder gods sitting in a bar, top view
+all/midjourney_lowstep_158.jpg	1.627559856	3.112865772	photograph of a stone cairn in scotland, soft lighting
+all/midjourney_lowstep_163.jpg	2.954193289	3.079505301	a portrait of girl boxer in a red dress, elevation view
+all/midjourney_lowstep_164.jpg	2.414476208	2.868115497	a pig sitting in a chair smoking a pipe, close-up
+all/midjourney_lowstep_165.jpg	2.65595515	2.653231999	a female hand holding a red fresh apple, long-shot
+all/midjourney_lowstep_166.jpg	2.974361596	3.531237092	a cybertronic metallic green tree frog , blurred detail
+all/midjourney_lowstep_190.jpg	2.48951242	3.457831122	delicious peanut butter donut with glazing , warm color, anime style
+all/midjourney_lowstep_203.jpg	2.493724965	2.144474319	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/midjourney_lowstep_204.jpg	3.472753415	3.742267655	2 friends partying and are facing the camera, close-up, baroque style
+all/midjourney_lowstep_205.jpg	2.368763526	2.486006301	the fate of all fools and divine intervention, long-shot, anime style
+all/midjourney_lowstep_209.jpg	1.134565764	1.373169339	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/midjourney_lowstep_217.jpg	2.851759102	3.268206767	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/midjourney_lowstep_224.jpg	1.744397974	2.75903949	lovers being pulled apart across space and time, warm color, close-up
+all/midjourney_lowstep_226.jpg	1.674946946	3.154626828	an anatomically correct cybertronic human heart, cold color, close-up
+all/midjourney_lowstep_230.jpg	3.357738899	2.982848125	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/midjourney_lowstep_234.jpg	2.791787056	2.736797804	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/midjourney_lowstep_236.jpg	3.457533183	2.943352484	short - haired short butch tomboy blonde engineer, top view, close-up
+all/midjourney_lowstep_244.jpg	2.871898573	2.857455034	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/midjourney_lowstep_254.jpg	2.886258786	3.066730889	portrait of beautiful woman with magical nebula hair, long-shot, soft lighting
+all/midjourney_lowstep_261.jpg	1.776898668	2.727992245	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/midjourney_lowstep_266.jpg	1.904712856	2.580224184	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/midjourney_lowstep_267.jpg	2.776694622	2.330906752	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/midjourney_lowstep_273.jpg	0.663293231	2.271926577	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/midjourney_lowstep_284.jpg	3.257944615	2.798535131	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/midjourney_lowstep_285.jpg	3.075586915	2.935379657	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/midjourney_lowstep_296.jpg	1.744823083	2.90198339	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style
+all/midjourney_normal_002.jpg	3.912443678	3.609476773	man lost in space
+all/midjourney_normal_003.jpg	2.788955814	3.543429565	a cosmic universe
+all/midjourney_normal_005.jpg	3.773032655	3.433697306	house of the dragon
+all/midjourney_normal_016.jpg	3.731501045	2.829700445	very sad rabbit crying
+all/midjourney_normal_028.jpg	2.546528083	2.338498523	maroon to black gradient
+all/midjourney_normal_034.jpg	3.44620302	3.74071135	rat portrait as a warrior
+all/midjourney_normal_039.jpg	4.058272319	3.494659672	beautiful topaz girl dark
+all/midjourney_normal_042.jpg	4.076497886	3.137840023	a man jumping off a cliff
+all/midjourney_normal_051.jpg	3.878442297	3.847029211	hanging gardens of babylon
+all/midjourney_normal_052.jpg	3.524162768	2.790068621	concept art of giant ogres
+all/midjourney_normal_055.jpg	3.502054974	3.080115584	a small ocean full of life
+all/midjourney_normal_059.jpg	3.208047473	2.890691628	barak obama as master chief
+all/midjourney_normal_060.jpg	3.523701266	2.846322945	artwork with only triangles, anime style
+all/midjourney_normal_067.jpg	3.757702826	2.844239553	a woman in newspaper clothes, realistic style
+all/midjourney_normal_068.jpg	3.530578941	2.324182247	yog sothoth chef in a kitchen, abstract style
+all/midjourney_normal_072.jpg	3.330911176	2.360759667	painted portrait of snake man, realistic style
+all/midjourney_normal_077.jpg	3.645251835	3.754119177	a anthropomorphic cat warrior, realistic style
+all/midjourney_normal_079.jpg	3.700231162	2.401039388	the infernal dark gun magicks , baroque style
+all/midjourney_normal_084.jpg	3.586777229	3.626710307	sheep that looks like broccoli, baroque style
+all/midjourney_normal_088.jpg	3.643633817	3.212187972	a space shuttle flying in space, abstract style
+all/midjourney_normal_093.jpg	3.956504603	3.588447963	photo of tony danza eating chili, abstract style
+all/midjourney_normal_100.jpg	3.903999466	3.611900911	a small garden buzzing with bees, anime style
+all/midjourney_normal_103.jpg	2.821971923	3.548579908	a giant rock floating in the air, abstract style
+all/midjourney_normal_104.jpg	3.662501677	3.635603955	a biomechanical cybertronic frog, baroque style
+all/midjourney_normal_113.jpg	3.401488261	3.73689006	epic colourful scene from a dream, abstract style
+all/midjourney_normal_114.jpg	3.430745058	3.40931236	donut glazed with white chocolate, baroque style
+all/midjourney_normal_115.jpg	4.472108404	3.167161119	ocean of canvas that catches fire, anime style
+all/midjourney_normal_127.jpg	3.685179175	3.649510515	robots building robots in a factory, hyper detail
+all/midjourney_normal_132.jpg	3.896040489	3.900312809	a girl with rainbow in white shirt , top view
+all/midjourney_normal_136.jpg	3.257944615	3.351474113	man in his late 40 s wearing a suit, blurred detail
+all/midjourney_normal_143.jpg	2.903508628	3.4459796	portrait of squids swarming the ocean, elevation view
+all/midjourney_normal_149.jpg	3.502432704	3.410108325	a plasticine model of a goblin raider, HDR lighting
+all/midjourney_normal_151.jpg	2.233675103	2.868587123	photo of a white fashion jewelry store, cold color
+all/midjourney_normal_152.jpg	3.357738899	3.430465396	grumpy the elder gods sitting in a bar, top view
+all/midjourney_normal_158.jpg	3.643633817	3.919858649	photograph of a stone cairn in scotland, soft lighting
+all/midjourney_normal_163.jpg	3.741408859	2.62350113	a portrait of girl boxer in a red dress, elevation view
+all/midjourney_normal_164.jpg	3.455805152	3.302738591	a pig sitting in a chair smoking a pipe, close-up
+all/midjourney_normal_165.jpg	3.389973337	3.330307595	a female hand holding a red fresh apple, long-shot
+all/midjourney_normal_166.jpg	3.673072716	3.402927392	a cybertronic metallic green tree frog , blurred detail
+all/midjourney_normal_190.jpg	3.249399128	3.079505301	delicious peanut butter donut with glazing , warm color, anime style
+all/midjourney_normal_203.jpg	3.523701266	2.979908012	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/midjourney_normal_204.jpg	4.216241627	3.970663927	2 friends partying and are facing the camera, close-up, baroque style
+all/midjourney_normal_205.jpg	3.903999466	2.782294356	the fate of all fools and divine intervention, long-shot, anime style
+all/midjourney_normal_209.jpg	3.559002625	2.865255012	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/midjourney_normal_217.jpg	3.605176603	2.133869253	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/midjourney_normal_224.jpg	3.869499782	3.1259885	lovers being pulled apart across space and time, warm color, close-up
+all/midjourney_normal_226.jpg	3.657064334	3.717911141	an anatomically correct cybertronic human heart, cold color, close-up
+all/midjourney_normal_230.jpg	3.442225929	3.024436368	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/midjourney_normal_234.jpg	3.999181768	3.453076131	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/midjourney_normal_236.jpg	4.044010336	3.445889779	short - haired short butch tomboy blonde engineer, top view, close-up
+all/midjourney_normal_244.jpg	3.052595235	2.62350113	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/midjourney_normal_254.jpg	3.942311441	3.162526872	portrait of beautiful woman with magical nebula hair, long-shot, soft lighting
+all/midjourney_normal_261.jpg	3.757702826	3.297882494	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/midjourney_normal_266.jpg	3.923239841	3.417300183	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/midjourney_normal_267.jpg	3.92991447	3.360542467	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/midjourney_normal_273.jpg	2.455012736	3.161543067	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/midjourney_normal_284.jpg	4.074643938	3.047185079	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/midjourney_normal_285.jpg	3.958236395	3.358399036	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/midjourney_normal_296.jpg	4.072931267	3.219821975	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style
+all/sd1.5_highcorr_002.jpg	3.688435461	3.311510172	man lost in space
+all/sd1.5_highcorr_003.jpg	2.760431848	3.336157521	a cosmic universe
+all/sd1.5_highcorr_005.jpg	3.43455948	2.653500595	house of the dragon
+all/sd1.5_highcorr_016.jpg	3.630412823	2.775303755	very sad rabbit crying
+all/sd1.5_highcorr_028.jpg	0.713190373	1.152883399	maroon to black gradient
+all/sd1.5_highcorr_034.jpg	3.576252467	3.434128078	rat portrait as a warrior
+all/sd1.5_highcorr_039.jpg	2.701159713	0.78808434	beautiful topaz girl dark
+all/sd1.5_highcorr_042.jpg	2.927618961	3.787339351	a man jumping off a cliff
+all/sd1.5_highcorr_051.jpg	3.645914271	3.514248281	hanging gardens of babylon
+all/sd1.5_highcorr_052.jpg	3.063450866	3.369510326	concept art of giant ogres
+all/sd1.5_highcorr_055.jpg	3.39100366	3.720100101	a small ocean full of life
+all/sd1.5_highcorr_059.jpg	3.837774272	3.895028099	barak obama as master chief
+all/sd1.5_highcorr_060.jpg	2.120377936	1.709939693	artwork with only triangles, anime style
+all/sd1.5_highcorr_067.jpg	2.791787056	1.996643532	a woman in newspaper clothes, realistic style
+all/sd1.5_highcorr_068.jpg	2.938008313	1.478626914	yog sothoth chef in a kitchen, abstract style
+all/sd1.5_highcorr_072.jpg	1.954767317	2.687482179	painted portrait of snake man, realistic style
+all/sd1.5_highcorr_077.jpg	3.017147546	3.433697306	a anthropomorphic cat warrior, realistic style
+all/sd1.5_highcorr_079.jpg	2.418144251	1.946215579	the infernal dark gun magicks , baroque style
+all/sd1.5_highcorr_084.jpg	2.925297001	1.903300589	sheep that looks like broccoli, baroque style
+all/sd1.5_highcorr_088.jpg	3.016410807	2.752822796	a space shuttle flying in space, abstract style
+all/sd1.5_highcorr_093.jpg	2.986543045	2.355533995	photo of tony danza eating chili, abstract style
+all/sd1.5_highcorr_100.jpg	2.410204999	2.47896401	a small garden buzzing with bees, anime style
+all/sd1.5_highcorr_103.jpg	1.590623463	2.133296646	a giant rock floating in the air, abstract style
+all/sd1.5_highcorr_104.jpg	2.852156791	3.214316689	a biomechanical cybertronic frog, baroque style
+all/sd1.5_highcorr_113.jpg	0.64666085	1.705822381	epic colourful scene from a dream, abstract style
+all/sd1.5_highcorr_114.jpg	3.893534731	3.118812912	donut glazed with white chocolate, baroque style
+all/sd1.5_highcorr_115.jpg	2.210104633	2.298257005	ocean of canvas that catches fire, anime style
+all/sd1.5_highcorr_127.jpg	2.671047584	2.486100389	robots building robots in a factory, hyper detail
+all/sd1.5_highcorr_132.jpg	2.822270352	1.784431343	a girl with rainbow in white shirt , top view
+all/sd1.5_highcorr_136.jpg	3.410576846	3.572455852	man in his late 40 s wearing a suit, blurred detail
+all/sd1.5_highcorr_143.jpg	1.956105243	1.883753543	portrait of squids swarming the ocean, elevation view
+all/sd1.5_highcorr_149.jpg	2.644930029	2.828703007	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_highcorr_151.jpg	3.018173564	3.703773546	photo of a white fashion jewelry store, cold color
+all/sd1.5_highcorr_152.jpg	3.386504205	1.549736047	grumpy the elder gods sitting in a bar, top view
+all/sd1.5_highcorr_158.jpg	3.211379142	3.180285613	photograph of a stone cairn in scotland, soft lighting
+all/sd1.5_highcorr_163.jpg	2.33566677	1.848294038	a portrait of girl boxer in a red dress, elevation view
+all/sd1.5_highcorr_164.jpg	2.248459435	2.521914306	a pig sitting in a chair smoking a pipe, close-up
+all/sd1.5_highcorr_165.jpg	2.831160905	2.991040101	a female hand holding a red fresh apple, long-shot
+all/sd1.5_highcorr_166.jpg	2.925297001	2.996013339	a cybertronic metallic green tree frog , blurred detail
+all/sd1.5_highcorr_190.jpg	3.074988427	3.232987189	delicious peanut butter donut with glazing , warm color, anime style
+all/sd1.5_highcorr_203.jpg	2.988623579	2.226642462	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/sd1.5_highcorr_204.jpg	2.326531297	1.955961444	2 friends partying and are facing the camera, close-up, baroque style
+all/sd1.5_highcorr_205.jpg	3.120947975	2.71557697	the fate of all fools and divine intervention, long-shot, anime style
+all/sd1.5_highcorr_209.jpg	2.082442662	2.903929414	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/sd1.5_highcorr_217.jpg	2.39306082	2.75903949	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/sd1.5_highcorr_224.jpg	2.38429134	2.354782696	lovers being pulled apart across space and time, warm color, close-up
+all/sd1.5_highcorr_226.jpg	2.209149982	2.555100504	an anatomically correct cybertronic human heart, cold color, close-up
+all/sd1.5_highcorr_230.jpg	2.776694622	2.748735776	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/sd1.5_highcorr_234.jpg	2.526119865	2.456239571	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/sd1.5_highcorr_236.jpg	3.196755943	2.557115434	short - haired short butch tomboy blonde engineer, top view, close-up
+all/sd1.5_highcorr_238.jpg	2.14357511	2.469404785	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/sd1.5_highcorr_244.jpg	2.858767479	1.574170242	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/sd1.5_highcorr_254.jpg	0.361905197	0.743156459	portrait of beautiful woman with magical nebula hair, long-shot, soft lighting
+all/sd1.5_highcorr_261.jpg	2.746169865	2.677763969	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_highcorr_266.jpg	3.002885562	3.116693004	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/sd1.5_highcorr_267.jpg	3.129903806	3.291606502	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/sd1.5_highcorr_273.jpg	3.374371279	3.311978472	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/sd1.5_highcorr_284.jpg	3.041723666	3.311978472	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/sd1.5_highcorr_285.jpg	0.378680654	0.812315573	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/sd1.5_highcorr_296.jpg	3.061212451	3.013543571	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style
+all/sd1.5_lowcorr_002.jpg	2.659178911	2.956517697	man lost in space
+all/sd1.5_lowcorr_003.jpg	3.906607461	3.720100101	a cosmic universe
+all/sd1.5_lowcorr_005.jpg	2.64254653	2.982848125	house of the dragon
+all/sd1.5_lowcorr_016.jpg	2.831160905	1.588396896	very sad rabbit crying
+all/sd1.5_lowcorr_028.jpg	0.577009925	0.642169337	maroon to black gradient
+all/sd1.5_lowcorr_034.jpg	2.841733922	2.14469675	rat portrait as a warrior
+all/sd1.5_lowcorr_039.jpg	0.335894705	0.690390841	beautiful topaz girl dark
+all/sd1.5_lowcorr_042.jpg	3.335114676	2.330906752	a man jumping off a cliff
+all/sd1.5_lowcorr_051.jpg	3.630412823	3.055730638	hanging gardens of babylon
+all/sd1.5_lowcorr_052.jpg	3.229467639	3.72764949	concept art of giant ogres
+all/sd1.5_lowcorr_055.jpg	3.386504205	3.813376788	a small ocean full of life
+all/sd1.5_lowcorr_059.jpg	3.27751397	3.626710307	barak obama as master chief
+all/sd1.5_lowcorr_060.jpg	2.927618961	2.927805358	artwork with only triangles, anime style
+all/sd1.5_lowcorr_067.jpg	2.23076479	0.957159937	a woman in newspaper clothes, realistic style
+all/sd1.5_lowcorr_068.jpg	1.48681785	0.575376803	yog sothoth chef in a kitchen, abstract style
+all/sd1.5_lowcorr_072.jpg	2.598262134	2.628670045	painted portrait of snake man, realistic style
+all/sd1.5_lowcorr_077.jpg	2.966953132	3.436323658	a anthropomorphic cat warrior, realistic style
+all/sd1.5_lowcorr_079.jpg	2.233367001	2.187651086	the infernal dark gun magicks , baroque style
+all/sd1.5_lowcorr_084.jpg	2.776694622	1.877263811	sheep that looks like broccoli, baroque style
+all/sd1.5_lowcorr_088.jpg	2.545997226	2.556888633	a space shuttle flying in space, abstract style
+all/sd1.5_lowcorr_093.jpg	3.150815738	2.330703444	photo of tony danza eating chili, abstract style
+all/sd1.5_lowcorr_100.jpg	3.138913035	2.736797804	a small garden buzzing with bees, anime style
+all/sd1.5_lowcorr_103.jpg	3.257944615	2.785369917	a giant rock floating in the air, abstract style
+all/sd1.5_lowcorr_104.jpg	3.430745058	3.433697306	a biomechanical cybertronic frog, baroque style
+all/sd1.5_lowcorr_113.jpg	3.150815738	3.820536448	epic colourful scene from a dream, abstract style
+all/sd1.5_lowcorr_114.jpg	3.091080213	2.703161695	donut glazed with white chocolate, baroque style
+all/sd1.5_lowcorr_115.jpg	2.104380621	1.848675793	ocean of canvas that catches fire, anime style
+all/sd1.5_lowcorr_127.jpg	3.501131449	3.608269769	robots building robots in a factory, hyper detail
+all/sd1.5_lowcorr_132.jpg	0.713190373	1.416187676	a girl with rainbow in white shirt , top view
+all/sd1.5_lowcorr_136.jpg	2.195092561	2.121896541	man in his late 40 s wearing a suit, blurred detail
+all/sd1.5_lowcorr_143.jpg	2.600314118	2.968775923	portrait of squids swarming the ocean, elevation view
+all/sd1.5_lowcorr_149.jpg	2.152199766	2.913115479	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_lowcorr_151.jpg	2.911873639	3.510154573	photo of a white fashion jewelry store, cold color
+all/sd1.5_lowcorr_152.jpg	2.11262753	2.31896878	grumpy the elder gods sitting in a bar, top view
+all/sd1.5_lowcorr_158.jpg	3.048358432	3.190440744	photograph of a stone cairn in scotland, soft lighting
+all/sd1.5_lowcorr_163.jpg	2.785504238	1.916694664	a portrait of girl boxer in a red dress, elevation view
+all/sd1.5_lowcorr_164.jpg	2.817259418	3.1259885	a pig sitting in a chair smoking a pipe, close-up
+all/sd1.5_lowcorr_165.jpg	2.166977719	2.087696228	a female hand holding a red fresh apple, long-shot
+all/sd1.5_lowcorr_166.jpg	3.010422973	2.885703528	a cybertronic metallic green tree frog , blurred detail
+all/sd1.5_lowcorr_190.jpg	2.92680752	2.653500595	delicious peanut butter donut with glazing , warm color, anime style
+all/sd1.5_lowcorr_203.jpg	2.46452189	2.189529698	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/sd1.5_lowcorr_204.jpg	2.966953132	1.788774497	2 friends partying and are facing the camera, close-up, baroque style
+all/sd1.5_lowcorr_205.jpg	1.773369934	1.939494873	the fate of all fools and divine intervention, long-shot, anime style
+all/sd1.5_lowcorr_209.jpg	3.017147546	2.592416657	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/sd1.5_lowcorr_217.jpg	2.559384627	2.666882993	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/sd1.5_lowcorr_224.jpg	1.719307075	1.482901598	lovers being pulled apart across space and time, warm color, close-up
+all/sd1.5_lowcorr_226.jpg	3.373697126	2.60460913	an anatomically correct cybertronic human heart, cold color, close-up
+all/sd1.5_lowcorr_230.jpg	0.634718842	1.836893934	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/sd1.5_lowcorr_234.jpg	2.81361908	3.079505301	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/sd1.5_lowcorr_236.jpg	3.25960126	2.994768272	short - haired short butch tomboy blonde engineer, top view, close-up
+all/sd1.5_lowcorr_238.jpg	2.000906886	2.380364545	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/sd1.5_lowcorr_244.jpg	1.659854513	0.946101985	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/sd1.5_lowcorr_254.jpg	3.150815738	2.765238071	portrait of beautiful woman with magical nebula hair, long-shot, soft lighting
+all/sd1.5_lowcorr_261.jpg	3.048428469	2.857455034	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_lowcorr_266.jpg	2.988623579	2.665571496	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/sd1.5_lowcorr_267.jpg	2.871898573	2.467831921	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/sd1.5_lowcorr_273.jpg	3.046278569	3.373586547	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/sd1.5_lowcorr_284.jpg	2.882005876	2.69074642	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/sd1.5_lowcorr_285.jpg	1.877457019	2.245596149	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/sd1.5_lowcorr_296.jpg	3.316649193	3.323965048	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style
+all/sd1.5_lowstep_002.jpg	2.941741401	3.584646223	man lost in space
+all/sd1.5_lowstep_003.jpg	2.004546739	3.287387628	a cosmic universe
+all/sd1.5_lowstep_005.jpg	3.421003889	2.960067189	house of the dragon
+all/sd1.5_lowstep_016.jpg	2.822270352	2.231381244	very sad rabbit crying
+all/sd1.5_lowstep_028.jpg	1.313948351	1.920999368	maroon to black gradient
+all/sd1.5_lowstep_034.jpg	1.594706548	1.587335456	rat portrait as a warrior
+all/sd1.5_lowstep_039.jpg	2.725708433	2.877526414	beautiful topaz girl dark
+all/sd1.5_lowstep_042.jpg	3.231077294	3.787279028	a man jumping off a cliff
+all/sd1.5_lowstep_051.jpg	3.34717137	3.581040815	hanging gardens of babylon
+all/sd1.5_lowstep_052.jpg	2.867071995	3.808121173	concept art of giant ogres
+all/sd1.5_lowstep_055.jpg	3.108253189	3.167161119	a small ocean full of life
+all/sd1.5_lowstep_059.jpg	2.782759734	3.173394589	barak obama as master chief
+all/sd1.5_lowstep_060.jpg	2.792402589	1.970660469	artwork with only triangles, anime style
+all/sd1.5_lowstep_067.jpg	2.785504238	2.201697271	a woman in newspaper clothes, realistic style
+all/sd1.5_lowstep_068.jpg	2.318310369	1.531671491	yog sothoth chef in a kitchen, abstract style
+all/sd1.5_lowstep_072.jpg	2.671047584	2.342844724	painted portrait of snake man, realistic style
+all/sd1.5_lowstep_077.jpg	2.46452189	2.7906625	a anthropomorphic cat warrior, realistic style
+all/sd1.5_lowstep_079.jpg	2.817259418	2.071203024	the infernal dark gun magicks , baroque style
+all/sd1.5_lowstep_084.jpg	3.507253099	3.754119177	sheep that looks like broccoli, baroque style
+all/sd1.5_lowstep_088.jpg	2.188089699	2.987495218	a space shuttle flying in space, abstract style
+all/sd1.5_lowstep_093.jpg	2.351513684	2.154163679	photo of tony danza eating chili, abstract style
+all/sd1.5_lowstep_100.jpg	3.091620808	3.009178553	a small garden buzzing with bees, anime style
+all/sd1.5_lowstep_103.jpg	0.676891105	1.460690493	a giant rock floating in the air, abstract style
+all/sd1.5_lowstep_104.jpg	3.524162768	3.410832372	a biomechanical cybertronic frog, baroque style
+all/sd1.5_lowstep_113.jpg	1.079441167	3.046700546	epic colourful scene from a dream, abstract style
+all/sd1.5_lowstep_114.jpg	3.421003889	3.683010044	donut glazed with white chocolate, baroque style
+all/sd1.5_lowstep_115.jpg	2.560764083	2.677763969	ocean of canvas that catches fire, anime style
+all/sd1.5_lowstep_127.jpg	2.989757839	3.102285456	robots building robots in a factory, hyper detail
+all/sd1.5_lowstep_132.jpg	2.610261314	2.367491079	a girl with rainbow in white shirt , top view
+all/sd1.5_lowstep_136.jpg	1.14671176	3.417262215	man in his late 40 s wearing a suit, blurred detail
+all/sd1.5_lowstep_143.jpg	2.851759102	2.166015202	portrait of squids swarming the ocean, elevation view
+all/sd1.5_lowstep_149.jpg	2.097882875	2.679341611	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_lowstep_151.jpg	3.369254363	3.386721989	photo of a white fashion jewelry store, cold color
+all/sd1.5_lowstep_152.jpg	1.765019055	1.952687802	grumpy the elder gods sitting in a bar, top view
+all/sd1.5_lowstep_158.jpg	3.727389608	3.73689006	photograph of a stone cairn in scotland, soft lighting
+all/sd1.5_lowstep_163.jpg	2.224915104	1.399557817	a portrait of girl boxer in a red dress, elevation view
+all/sd1.5_lowstep_164.jpg	3.031344688	2.281042344	a pig sitting in a chair smoking a pipe, close-up
+all/sd1.5_lowstep_165.jpg	2.29958451	2.51693257	a female hand holding a red fresh apple, long-shot
+all/sd1.5_lowstep_166.jpg	2.610677849	2.689045915	a cybertronic metallic green tree frog , blurred detail
+all/sd1.5_lowstep_190.jpg	2.885477796	3.402927392	delicious peanut butter donut with glazing , warm color, anime style
+all/sd1.5_lowstep_203.jpg	2.293736737	2.462224445	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/sd1.5_lowstep_204.jpg	2.81361908	3.147905927	2 friends partying and are facing the camera, close-up, baroque style
+all/sd1.5_lowstep_205.jpg	2.912636241	2.37877521	the fate of all fools and divine intervention, long-shot, anime style
+all/sd1.5_lowstep_209.jpg	2.689121932	2.945998379	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/sd1.5_lowstep_217.jpg	3.800500414	3.564494822	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/sd1.5_lowstep_224.jpg	2.006516843	2.379342601	lovers being pulled apart across space and time, warm color, close-up
+all/sd1.5_lowstep_226.jpg	3.024480393	3.353107804	an anatomically correct cybertronic human heart, cold color, close-up
+all/sd1.5_lowstep_230.jpg	0.367627845	0.776684236	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/sd1.5_lowstep_234.jpg	3.419625599	2.343118719	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/sd1.5_lowstep_236.jpg	2.65898745	2.634901234	short - haired short butch tomboy blonde engineer, top view, close-up
+all/sd1.5_lowstep_238.jpg	2.206516657	2.16726552	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/sd1.5_lowstep_244.jpg	2.545997226	1.788774497	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/sd1.5_lowstep_254.jpg	3.365299544	2.903929414	portrait of beautiful woman with magical nebula hair, long-shot, soft lighting
+all/sd1.5_lowstep_261.jpg	3.066652656	3.02250478	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_lowstep_266.jpg	2.654631009	2.490096099	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/sd1.5_lowstep_267.jpg	3.195617381	2.678331145	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/sd1.5_lowstep_273.jpg	3.494295005	3.634307323	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/sd1.5_lowstep_284.jpg	3.712425524	3.071061023	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/sd1.5_lowstep_285.jpg	2.309898917	2.429909143	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/sd1.5_lowstep_296.jpg	3.357738899	3.483126252	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style
+all/sd1.5_normal_002.jpg	2.7089479	3.191417702	man lost in space
+all/sd1.5_normal_003.jpg	2.92075847	3.398573511	a cosmic universe
+all/sd1.5_normal_005.jpg	2.61389334	2.445567744	house of the dragon
+all/sd1.5_normal_016.jpg	3.744508689	2.141295149	very sad rabbit crying
+all/sd1.5_normal_028.jpg	2.903508628	1.229744947	maroon to black gradient
+all/sd1.5_normal_034.jpg	2.609281769	2.245596149	rat portrait as a warrior
+all/sd1.5_normal_039.jpg	3.333592147	2.835190856	beautiful topaz girl dark
+all/sd1.5_normal_042.jpg	2.763264791	3.447455747	a man jumping off a cliff
+all/sd1.5_normal_051.jpg	3.279275256	3.592172903	hanging gardens of babylon
+all/sd1.5_normal_052.jpg	2.852156791	2.462224445	concept art of giant ogres
+all/sd1.5_normal_055.jpg	2.058266369	2.711185223	a small ocean full of life
+all/sd1.5_normal_059.jpg	2.926215464	3.158021435	barak obama as master chief
+all/sd1.5_normal_060.jpg	3.162256259	2.651927612	artwork with only triangles, anime style
+all/sd1.5_normal_067.jpg	3.058356047	1.77164845	a woman in newspaper clothes, realistic style
+all/sd1.5_normal_068.jpg	1.894194533	0.987264094	yog sothoth chef in a kitchen, abstract style
+all/sd1.5_normal_072.jpg	2.359796059	2.11394401	painted portrait of snake man, realistic style
+all/sd1.5_normal_077.jpg	2.560585504	2.840103111	a anthropomorphic cat warrior, realistic style
+all/sd1.5_normal_079.jpg	2.942711395	3.33369641	the infernal dark gun magicks , baroque style
+all/sd1.5_normal_084.jpg	3.199282771	3.214316689	sheep that looks like broccoli, baroque style
+all/sd1.5_normal_088.jpg	1.933236823	2.092525257	a space shuttle flying in space, abstract style
+all/sd1.5_normal_093.jpg	2.776844014	2.7906625	photo of tony danza eating chili, abstract style
+all/sd1.5_normal_100.jpg	2.701159713	3.489909055	a small garden buzzing with bees, anime style
+all/sd1.5_normal_103.jpg	2.716324886	1.841449895	a giant rock floating in the air, abstract style
+all/sd1.5_normal_104.jpg	2.804002459	3.358399036	a biomechanical cybertronic frog, baroque style
+all/sd1.5_normal_113.jpg	2.66201084	3.1259885	epic colourful scene from a dream, abstract style
+all/sd1.5_normal_114.jpg	3.031344688	3.174942147	donut glazed with white chocolate, baroque style
+all/sd1.5_normal_115.jpg	2.575026067	2.238834935	ocean of canvas that catches fire, anime style
+all/sd1.5_normal_127.jpg	3.320022242	3.345634382	robots building robots in a factory, hyper detail
+all/sd1.5_normal_132.jpg	2.090510173	3.038374121	a girl with rainbow in white shirt , top view
+all/sd1.5_normal_136.jpg	3.537280489	3.31387068	man in his late 40 s wearing a suit, blurred detail
+all/sd1.5_normal_143.jpg	2.309898917	1.890135375	portrait of squids swarming the ocean, elevation view
+all/sd1.5_normal_149.jpg	2.67293154	3.013543571	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_normal_151.jpg	3.127756575	3.351167422	photo of a white fashion jewelry store, cold color
+all/sd1.5_normal_152.jpg	2.717733183	1.548541117	grumpy the elder gods sitting in a bar, top view
+all/sd1.5_normal_158.jpg	3.530547546	3.524109368	photograph of a stone cairn in scotland, soft lighting
+all/sd1.5_normal_163.jpg	3.031344688	2.44244092	a portrait of girl boxer in a red dress, elevation view
+all/sd1.5_normal_164.jpg	3.080710077	2.897103633	a pig sitting in a chair smoking a pipe, close-up
+all/sd1.5_normal_165.jpg	1.727765593	2.219265721	a female hand holding a red fresh apple, long-shot
+all/sd1.5_normal_166.jpg	3.966327593	3.113705614	a cybertronic metallic green tree frog , blurred detail
+all/sd1.5_normal_190.jpg	2.912526527	2.963619274	delicious peanut butter donut with glazing , warm color, anime style
+all/sd1.5_normal_203.jpg	1.777662735	1.903300589	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/sd1.5_normal_204.jpg	3.195617381	2.727992245	2 friends partying and are facing the camera, close-up, baroque style
+all/sd1.5_normal_205.jpg	2.460930201	2.37295214	the fate of all fools and divine intervention, long-shot, anime style
+all/sd1.5_normal_209.jpg	2.508658847	2.802483896	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/sd1.5_normal_217.jpg	3.682240656	3.763463406	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/sd1.5_normal_224.jpg	2.996365552	1.472090597	lovers being pulled apart across space and time, warm color, close-up
+all/sd1.5_normal_226.jpg	2.722527122	3.169153524	an anatomically correct cybertronic human heart, cold color, close-up
+all/sd1.5_normal_230.jpg	2.489938377	2.796487664	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/sd1.5_normal_234.jpg	3.193169444	2.885703528	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/sd1.5_normal_236.jpg	2.757389397	2.555100504	short - haired short butch tomboy blonde engineer, top view, close-up
+all/sd1.5_normal_238.jpg	2.329452272	2.889390821	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/sd1.5_normal_244.jpg	2.359320035	2.094813219	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/sd1.5_normal_254.jpg	3.059933495	3.189847843	portrait of beautiful woman with magical nebula hair, long-shot, soft lighting
+all/sd1.5_normal_261.jpg	2.941929382	2.917022056	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_normal_266.jpg	2.821971923	2.581604166	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/sd1.5_normal_267.jpg	2.888789697	1.824290847	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/sd1.5_normal_273.jpg	3.202553327	3.37273494	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/sd1.5_normal_284.jpg	1.927354161	1.94279623	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/sd1.5_normal_285.jpg	2.135311817	2.49210202	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/sd1.5_normal_296.jpg	3.923719599	3.094936968	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style
+all/xl2.2_normal_002.jpg	3.748750887	3.410425033	man lost in space
+all/xl2.2_normal_003.jpg	3.184220697	3.425191569	a cosmic universe
+all/xl2.2_normal_005.jpg	3.324474137	2.745874276	house of the dragon
+all/xl2.2_normal_016.jpg	3.395484412	2.307030807	very sad rabbit crying
+all/xl2.2_normal_028.jpg	3.908627165	2.199589058	maroon to black gradient
+all/xl2.2_normal_034.jpg	3.430745058	3.701931716	rat portrait as a warrior
+all/xl2.2_normal_039.jpg	3.510122043	3.558776637	beautiful topaz girl dark
+all/xl2.2_normal_042.jpg	3.088457462	3.506852145	a man jumping off a cliff
+all/xl2.2_normal_051.jpg	3.165054602	3.478508951	hanging gardens of babylon
+all/xl2.2_normal_052.jpg	3.591686053	3.548579908	concept art of giant ogres
+all/xl2.2_normal_055.jpg	2.654631009	3.247078147	a small ocean full of life
+all/xl2.2_normal_059.jpg	3.835000098	3.5526433	barak obama as master chief
+all/xl2.2_normal_060.jpg	3.568964411	1.759600793	artwork with only triangles, anime style
+all/xl2.2_normal_067.jpg	3.613766055	3.572230948	a woman in newspaper clothes, realistic style
+all/xl2.2_normal_068.jpg	2.804002459	1.499340184	yog sothoth chef in a kitchen, abstract style
+all/xl2.2_normal_072.jpg	3.590592228	3.50945668	painted portrait of snake man, realistic style
+all/xl2.2_normal_077.jpg	3.345173159	3.592199458	a anthropomorphic cat warrior, realistic style
+all/xl2.2_normal_079.jpg	3.307841757	2.074448369	the infernal dark gun magicks , baroque style
+all/xl2.2_normal_084.jpg	3.679751519	3.197097634	sheep that looks like broccoli, baroque style
+all/xl2.2_normal_088.jpg	2.284650629	2.144474319	a space shuttle flying in space, abstract style
+all/xl2.2_normal_093.jpg	3.531316317	2.820363609	photo of tony danza eating chili, abstract style
+all/xl2.2_normal_100.jpg	3.135881857	3.882612824	a small garden buzzing with bees, anime style
+all/xl2.2_normal_103.jpg	2.803217798	3.482467199	a giant rock floating in the air, abstract style
+all/xl2.2_normal_104.jpg	3.714251203	3.671158522	a biomechanical cybertronic frog, baroque style
+all/xl2.2_normal_113.jpg	2.586734895	3.380663214	epic colourful scene from a dream, abstract style
+all/xl2.2_normal_114.jpg	3.472753415	3.481534167	donut glazed with white chocolate, baroque style
+all/xl2.2_normal_115.jpg	3.008458905	3.153995905	ocean of canvas that catches fire, anime style
+all/xl2.2_normal_127.jpg	3.225485144	3.174942147	robots building robots in a factory, hyper detail
+all/xl2.2_normal_132.jpg	3.628001993	3.114136978	a girl with rainbow in white shirt , top view
+all/xl2.2_normal_136.jpg	3.179506101	3.303761333	man in his late 40 s wearing a suit, blurred detail
+all/xl2.2_normal_143.jpg	3.024480393	2.680501651	portrait of squids swarming the ocean, elevation view
+all/xl2.2_normal_149.jpg	3.199282771	3.369510326	a plasticine model of a goblin raider, HDR lighting
+all/xl2.2_normal_151.jpg	3.873342699	3.351474113	photo of a white fashion jewelry store, cold color
+all/xl2.2_normal_152.jpg	3.169097903	1.948891644	grumpy the elder gods sitting in a bar, top view
+all/xl2.2_normal_158.jpg	3.658567698	3.671553148	photograph of a stone cairn in scotland, soft lighting
+all/xl2.2_normal_163.jpg	3.541752783	3.161543067	a portrait of girl boxer in a red dress, elevation view
+all/xl2.2_normal_164.jpg	3.033265998	3.978346905	a pig sitting in a chair smoking a pipe, close-up
+all/xl2.2_normal_165.jpg	3.229467639	2.844239553	a female hand holding a red fresh apple, long-shot
+all/xl2.2_normal_166.jpg	2.67293154	2.653500595	a cybertronic metallic green tree frog , blurred detail
+all/xl2.2_normal_190.jpg	3.645251835	3.197097634	delicious peanut butter donut with glazing , warm color, anime style
+all/xl2.2_normal_203.jpg	2.851759102	2.071203024	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/xl2.2_normal_204.jpg	4.39158505	3.739587462	2 friends partying and are facing the camera, close-up, baroque style
+all/xl2.2_normal_205.jpg	3.583898292	2.765238071	the fate of all fools and divine intervention, long-shot, anime style
+all/xl2.2_normal_209.jpg	3.740283654	2.838030773	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/xl2.2_normal_217.jpg	3.658936789	3.506852145	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/xl2.2_normal_224.jpg	3.502432704	2.965504258	lovers being pulled apart across space and time, warm color, close-up
+all/xl2.2_normal_226.jpg	3.131243411	3.165462896	an anatomically correct cybertronic human heart, cold color, close-up
+all/xl2.2_normal_230.jpg	3.344956193	3.286679622	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/xl2.2_normal_234.jpg	3.598832173	3.808121173	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/xl2.2_normal_236.jpg	3.690386512	3.50945668	short - haired short butch tomboy blonde engineer, top view, close-up
+all/xl2.2_normal_238.jpg	1.636189301	1.799906586	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/xl2.2_normal_244.jpg	2.996365552	2.931303945	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/xl2.2_normal_254.jpg	3.987113084	2.61625477	portrait of beautiful woman with magical nebula hair, long-shot, soft lighting
+all/xl2.2_normal_261.jpg	3.386504205	2.900809578	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/xl2.2_normal_266.jpg	3.001476926	3.013543571	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/xl2.2_normal_267.jpg	3.852708154	2.628670045	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/xl2.2_normal_273.jpg	2.996365552	3.079505301	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/xl2.2_normal_284.jpg	3.464427243	3.075619946	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/xl2.2_normal_285.jpg	2.996365552	2.86290332	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/xl2.2_normal_296.jpg	3.25960126	3.055730638	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style

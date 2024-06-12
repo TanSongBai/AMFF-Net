@@ -1,0 +1,597 @@
+all/AttnGAN_normal_002.jpg	0.195283431	0.506802093	man lost in space
+all/AttnGAN_normal_009.jpg	1.222173929	0.420831212	girl from fight club
+all/AttnGAN_normal_011.jpg	1.373098268	0.647652682	the prince of the sun
+all/AttnGAN_normal_012.jpg	1.337589887	0.936285696	life bar and mana bar
+all/AttnGAN_normal_013.jpg	1.230273953	1.146784292	everything is a dream
+all/AttnGAN_normal_019.jpg	0.821435934	1.02066036	big boss eating dinner
+all/AttnGAN_normal_022.jpg	1.428382741	0.784257411	panda chef in a kitchen
+all/AttnGAN_normal_029.jpg	0.747278376	0.530505137	legendary river of slugs
+all/AttnGAN_normal_031.jpg	0.821435934	0.742358137	black mickey mouse skull
+all/AttnGAN_normal_033.jpg	1.179543421	0.182860864	the pope had a rock band
+all/AttnGAN_normal_039.jpg	1.247523795	0.945308415	beautiful topaz girl dark
+all/AttnGAN_normal_041.jpg	1.079102747	0.389300995	a raspberry made of metal
+all/AttnGAN_normal_044.jpg	1.106599613	0.553112625	male warrior silver armor
+all/AttnGAN_normal_049.jpg	0.649658335	0.288039227	portrait of evil alchemist
+all/AttnGAN_normal_053.jpg	1.084556311	0.845084862	castle from howl's sticker
+all/AttnGAN_normal_056.jpg	1.391281461	0.922047832	survival in a winter forest
+all/AttnGAN_normal_064.jpg	0.935417685	1.184861428	monsters playing board games, baroque style
+all/AttnGAN_normal_066.jpg	0.761394747	0.604980215	a pizza with chocolate on it, sci-fi style
+all/AttnGAN_normal_078.jpg	0.970469084	0.393920539	tree of life embroidered scene, abstract style
+all/AttnGAN_normal_086.jpg	1.161274584	0.767535581	a very drunk person named aaron, sci-fi style
+all/AttnGAN_normal_093.jpg	1.478164096	0.696883506	photo of tony danza eating chili, abstract style
+all/AttnGAN_normal_105.jpg	1.045837986	0.85008348	a 2 d guitarist character design, anime style
+all/AttnGAN_normal_113.jpg	0.879514179	0.731596555	epic colourful scene from a dream, abstract style
+all/AttnGAN_normal_116.jpg	1.463287163	0.455996915	portrait of beautiful armored girl, sci-fi style
+all/AttnGAN_normal_122.jpg	1.1267749	0.672723404	chinese demon god character design, top view
+all/AttnGAN_normal_126.jpg	1.567824332	0.778794065	the shogoth wearing a santa costume, blurred detail
+all/AttnGAN_normal_128.jpg	0.557530114	0.54235666	portrait of a tang dynasty empress , soft lighting
+all/AttnGAN_normal_129.jpg	0.466029791	0.38908069	portrait of a beautiful young woman, HDR lighting
+all/AttnGAN_normal_132.jpg	1.29901447	0.158030314	a girl with rainbow in white shirt , top view
+all/AttnGAN_normal_138.jpg	0.880865797	2.380364545	render of dreamy beautiful landscape, soft lighting
+all/AttnGAN_normal_142.jpg	0.807856712	0.842546938	a biomechanical passion fruit flower, top view
+all/AttnGAN_normal_144.jpg	1.16308973	0.739160734	pendant of a silver starfish necklace, close-up
+all/AttnGAN_normal_146.jpg	0.79126251	0.431166364	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/AttnGAN_normal_149.jpg	0.792278167	1.56824891	a plasticine model of a goblin raider, HDR lighting
+all/AttnGAN_normal_152.jpg	0.735230234	0.678198368	grumpy the elder gods sitting in a bar, top view
+all/AttnGAN_normal_154.jpg	1.038703499	0.742358137	cute fluffy baby poodle giraffe hybrid, close-up
+all/AttnGAN_normal_156.jpg	1.977251303	1.310865965	an adventure party resting in a tavern, blurred detail
+all/AttnGAN_normal_170.jpg	1.04513849	0.927777366	portrait of butterflies swarming flowers, warm color
+all/AttnGAN_normal_179.jpg	1.063255848	0.641620949	underwater photography of the rough ocean, HDR lighting
+all/AttnGAN_normal_188.jpg	1.252358797	1.137109539	portrait painting of a west hightland white, soft lighting, abstract style
+all/AttnGAN_normal_190.jpg	0.875752826	0.831414849	delicious peanut butter donut with glazing , warm color, anime style
+all/AttnGAN_normal_191.jpg	0.776328629	0.828455166	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/AttnGAN_normal_198.jpg	0.84859438	0.976132005	robots creating new robots in a factory line, soft lighting, abstract style
+all/AttnGAN_normal_209.jpg	0.995787421	0.552148905	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/AttnGAN_normal_217.jpg	1.191989061	0.552148905	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/AttnGAN_normal_222.jpg	0.970807385	0.653301426	interior of cosmic highway created by the gods, cold color, top view
+all/AttnGAN_normal_232.jpg	1.144024742	0.897902326	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/AttnGAN_normal_238.jpg	0.705005947	0.560082254	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/AttnGAN_normal_239.jpg	0.937026638	0.874199281	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/AttnGAN_normal_241.jpg	1.023275848	0.577911226	breaking moon as seen from the surface of the moon, top view, hyper detail
+all/AttnGAN_normal_251.jpg	1.252358797	0.719280515	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/AttnGAN_normal_252.jpg	0.749492217	0.909855359	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/AttnGAN_normal_258.jpg	0.60416837	0.642169337	black broken armor and helmet laying in wild flowers, hyper detail, soft lighting
+all/AttnGAN_normal_259.jpg	0.592546579	0.594282567	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/AttnGAN_normal_265.jpg	1.69003938	0.57602485	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/AttnGAN_normal_267.jpg	1.112367509	0.902744335	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/AttnGAN_normal_276.jpg	0.333282167	0.530505137	portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style
+all/AttnGAN_normal_285.jpg	0.701659223	0.282183064	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/AttnGAN_normal_288.jpg	0.835015157	0.931603649	a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style
+all/AttnGAN_normal_298.jpg	0.929411321	0.942239977	photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style
+all/DALLE2_normal_002.jpg	2.855791343	2.908503737	man lost in space
+all/DALLE2_normal_009.jpg	3.127756575	3.4459796	girl from fight club
+all/DALLE2_normal_011.jpg	3.430745058	0.983010198	the prince of the sun
+all/DALLE2_normal_012.jpg	2.792237956	2.69321342	life bar and mana bar
+all/DALLE2_normal_013.jpg	3.010422973	1.18708799	everything is a dream
+all/DALLE2_normal_019.jpg	2.729274555	3.489909055	big boss eating dinner
+all/DALLE2_normal_022.jpg	2.568394371	4.118503049	panda chef in a kitchen
+all/DALLE2_normal_029.jpg	3.127756575	1.846024102	legendary river of slugs
+all/DALLE2_normal_031.jpg	1.977251303	2.495735212	black mickey mouse skull
+all/DALLE2_normal_033.jpg	2.742340814	2.574726496	the pope had a rock band
+all/DALLE2_normal_039.jpg	2.674859949	2.568031711	beautiful topaz girl dark
+all/DALLE2_normal_041.jpg	2.532418004	3.491984103	a raspberry made of metal
+all/DALLE2_normal_044.jpg	2.459590343	3.44363061	male warrior silver armor
+all/DALLE2_normal_049.jpg	2.625914149	3.483126252	portrait of evil alchemist
+all/DALLE2_normal_053.jpg	2.405953874	2.919903841	castle from howl's sticker
+all/DALLE2_normal_056.jpg	3.124885569	2.666882993	survival in a winter forest
+all/DALLE2_normal_064.jpg	2.545997226	3.169153524	monsters playing board games, baroque style
+all/DALLE2_normal_066.jpg	2.307551928	2.771702485	a pizza with chocolate on it, sci-fi style
+all/DALLE2_normal_078.jpg	2.247254325	3.124625168	tree of life embroidered scene, abstract style
+all/DALLE2_normal_086.jpg	3.773548415	2.982848125	a very drunk person named aaron, sci-fi style
+all/DALLE2_normal_093.jpg	2.476240979	3.227706657	photo of tony danza eating chili, abstract style
+all/DALLE2_normal_105.jpg	2.172997265	3.465014103	a 2 d guitarist character design, anime style
+all/DALLE2_normal_113.jpg	0.889332048	1.44367974	epic colourful scene from a dream, abstract style
+all/DALLE2_normal_116.jpg	3.131243411	1.824290847	portrait of beautiful armored girl, sci-fi style
+all/DALLE2_normal_122.jpg	1.961760789	2.092525257	chinese demon god character design, top view
+all/DALLE2_normal_126.jpg	2.409693201	2.166604866	the shogoth wearing a santa costume, blurred detail
+all/DALLE2_normal_128.jpg	2.931575646	2.958190852	portrait of a tang dynasty empress , soft lighting
+all/DALLE2_normal_129.jpg	3.61615084	3.506852145	portrait of a beautiful young woman, HDR lighting
+all/DALLE2_normal_132.jpg	3.402221092	3.64096935	a girl with rainbow in white shirt , top view
+all/DALLE2_normal_138.jpg	2.39306082	3.140830692	render of dreamy beautiful landscape, soft lighting
+all/DALLE2_normal_142.jpg	2.14357511	2.443074357	a biomechanical passion fruit flower, top view
+all/DALLE2_normal_144.jpg	3.334754679	3.884485921	pendant of a silver starfish necklace, close-up
+all/DALLE2_normal_146.jpg	3.249399128	3.50130916	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/DALLE2_normal_149.jpg	1.727765593	2.614222137	a plasticine model of a goblin raider, HDR lighting
+all/DALLE2_normal_152.jpg	2.80733647	1.933414643	grumpy the elder gods sitting in a bar, top view
+all/DALLE2_normal_154.jpg	3.576252467	3.090433934	cute fluffy baby poodle giraffe hybrid, close-up
+all/DALLE2_normal_156.jpg	2.127265738	2.000093891	an adventure party resting in a tavern, blurred detail
+all/DALLE2_normal_170.jpg	3.442225929	3.057832635	portrait of butterflies swarming flowers, warm color
+all/DALLE2_normal_179.jpg	1.867036088	2.746134145	underwater photography of the rough ocean, HDR lighting
+all/DALLE2_normal_188.jpg	2.7089479	1.54386854	portrait painting of a west hightland white, soft lighting, abstract style
+all/DALLE2_normal_190.jpg	2.67293154	3.485324022	delicious peanut butter donut with glazing , warm color, anime style
+all/DALLE2_normal_191.jpg	2.420011295	2.62350113	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/DALLE2_normal_198.jpg	2.478101113	2.935379657	robots creating new robots in a factory line, soft lighting, abstract style
+all/DALLE2_normal_209.jpg	2.703383915	2.750918808	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/DALLE2_normal_217.jpg	3.537280489	3.358399036	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/DALLE2_normal_222.jpg	1.120303781	1.726751061	interior of cosmic highway created by the gods, cold color, top view
+all/DALLE2_normal_232.jpg	2.687102292	3.410108325	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/DALLE2_normal_239.jpg	3.43455948	2.045152119	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/DALLE2_normal_241.jpg	0.905232817	1.901139755	breaking moon as seen from the surface of the moon, top view, hyper detail
+all/DALLE2_normal_251.jpg	2.74826005	3.161543067	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/DALLE2_normal_252.jpg	2.462183558	2.452499565	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/DALLE2_normal_258.jpg	2.931575646	3.543429565	black broken armor and helmet laying in wild flowers, hyper detail, soft lighting
+all/DALLE2_normal_259.jpg	1.178524426	1.656399747	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/DALLE2_normal_265.jpg	2.831741764	2.885036013	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/DALLE2_normal_267.jpg	2.912636241	3.358399036	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/DALLE2_normal_276.jpg	3.127756575	3.197097634	portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style
+all/DALLE2_normal_285.jpg	3.106014094	2.71557697	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/DALLE2_normal_288.jpg	2.339014038	2.784549692	a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style
+all/DALLE2_normal_298.jpg	3.428646707	3.603304992	photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style
+all/glide_normal_002.jpg	0.508202054	0.902085383	man lost in space
+all/glide_normal_009.jpg	0.754308478	0.277575547	girl from fight club
+all/glide_normal_011.jpg	1.719307075	1.848675793	the prince of the sun
+all/glide_normal_012.jpg	1.010879855	0.731218487	life bar and mana bar
+all/glide_normal_013.jpg	0.862881799	1.231874682	everything is a dream
+all/glide_normal_019.jpg	0.763754201	0.739160734	big boss eating dinner
+all/glide_normal_022.jpg	1.527555519	0.909339471	panda chef in a kitchen
+all/glide_normal_029.jpg	0.612055936	1.225743967	legendary river of slugs
+all/glide_normal_031.jpg	1.328588457	0.915909549	black mickey mouse skull
+all/glide_normal_033.jpg	1.421934412	1.10728726	the pope had a rock band
+all/glide_normal_039.jpg	0.582188173	0.480827465	beautiful topaz girl dark
+all/glide_normal_041.jpg	1.759312513	1.82549383	a raspberry made of metal
+all/glide_normal_044.jpg	1.834018423	0.92160537	male warrior silver armor
+all/glide_normal_049.jpg	2.02640351	0.571482359	portrait of evil alchemist
+all/glide_normal_053.jpg	1.012573225	0.981735619	castle from howl's sticker
+all/glide_normal_056.jpg	1.385522531	1.952687802	survival in a winter forest
+all/glide_normal_064.jpg	1.149675658	1.536125842	monsters playing board games, baroque style
+all/glide_normal_066.jpg	1.619473192	2.714341389	a pizza with chocolate on it, sci-fi style
+all/glide_normal_078.jpg	1.034731881	1.897445686	tree of life embroidered scene, abstract style
+all/glide_normal_086.jpg	1.075025374	0.720129493	a very drunk person named aaron, sci-fi style
+all/glide_normal_093.jpg	0.986154364	1.050286739	photo of tony danza eating chili, abstract style
+all/glide_normal_105.jpg	1.012573225	1.245039896	a 2 d guitarist character design, anime style
+all/glide_normal_113.jpg	0.298444431	2.41761037	epic colourful scene from a dream, abstract style
+all/glide_normal_116.jpg	1.147337281	0.374999202	portrait of beautiful armored girl, sci-fi style
+all/glide_normal_122.jpg	1.328588457	2.034952727	chinese demon god character design, top view
+all/glide_normal_126.jpg	0.253642787	0.406335814	the shogoth wearing a santa costume, blurred detail
+all/glide_normal_128.jpg	1.492221516	0.571482359	portrait of a tang dynasty empress , soft lighting
+all/glide_normal_129.jpg	1.717140251	0.525881942	portrait of a beautiful young woman, HDR lighting
+all/glide_normal_132.jpg	1.717163144	1.250574517	a girl with rainbow in white shirt , top view
+all/glide_normal_138.jpg	0.701659223	1.585786942	render of dreamy beautiful landscape, soft lighting
+all/glide_normal_142.jpg	1.391281461	2.433914506	a biomechanical passion fruit flower, top view
+all/glide_normal_144.jpg	1.927354161	2.732709062	pendant of a silver starfish necklace, close-up
+all/glide_normal_146.jpg	1.866501955	2.740407521	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/glide_normal_149.jpg	1.14671176	1.554938564	a plasticine model of a goblin raider, HDR lighting
+all/glide_normal_152.jpg	0.887752418	1.26688872	grumpy the elder gods sitting in a bar, top view
+all/glide_normal_154.jpg	1.827559877	2.653717779	cute fluffy baby poodle giraffe hybrid, close-up
+all/glide_normal_156.jpg	0.776328629	1.325066167	an adventure party resting in a tavern, blurred detail
+all/glide_normal_170.jpg	1.492221516	1.540491223	portrait of butterflies swarming flowers, warm color
+all/glide_normal_179.jpg	0.014779217	1.280365205	underwater photography of the rough ocean, HDR lighting
+all/glide_normal_188.jpg	0.946043702	0.692100914	portrait painting of a west hightland white, soft lighting, abstract style
+all/glide_normal_190.jpg	1.704085415	2.490096099	delicious peanut butter donut with glazing , warm color, anime style
+all/glide_normal_191.jpg	1.948511424	1.599528985	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/glide_normal_198.jpg	0.363910379	0.139161932	robots creating new robots in a factory line, soft lighting, abstract style
+all/glide_normal_209.jpg	1.000336846	0.902946816	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/glide_normal_217.jpg	2.293266536	0.692100914	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/glide_normal_222.jpg	1.461647503	1.389857248	interior of cosmic highway created by the gods, cold color, top view
+all/glide_normal_232.jpg	0.775293051	0.594282567	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/glide_normal_238.jpg	0.016192323	0.503081733	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/glide_normal_239.jpg	0.803407893	1.289688929	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/glide_normal_241.jpg	1.312728533	2.104085281	breaking moon as seen from the surface of the moon, top view, hyper detail
+all/glide_normal_251.jpg	0.60416837	1.087452894	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/glide_normal_252.jpg	2.060642411	2.094813219	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/glide_normal_258.jpg	0.873694997	0.560082254	black broken armor and helmet laying in wild flowers, hyper detail, soft lighting
+all/glide_normal_259.jpg	1.038703499	1.844434941	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/glide_normal_265.jpg	0.648776263	1.232688407	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/glide_normal_267.jpg	1.269146708	0.654641315	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/glide_normal_276.jpg	0.64666085	0.44196185	portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style
+all/glide_normal_285.jpg	1.299273321	1.051972114	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/glide_normal_288.jpg	0.058364586	0.537282046	a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style
+all/glide_normal_298.jpg	0.319004692	0.564244714	photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style
+all/midjourney_lowstep_002.jpg	2.576017007	3.259317616	man lost in space
+all/midjourney_lowstep_009.jpg	3.421003889	3.161543067	girl from fight club
+all/midjourney_lowstep_011.jpg	2.315150439	3.080096813	the prince of the sun
+all/midjourney_lowstep_012.jpg	2.610261314	1.976390846	life bar and mana bar
+all/midjourney_lowstep_013.jpg	0.862881799	1.047561688	everything is a dream
+all/midjourney_lowstep_019.jpg	2.29958451	3.659137873	big boss eating dinner
+all/midjourney_lowstep_022.jpg	2.686140018	3.72764949	panda chef in a kitchen
+all/midjourney_lowstep_029.jpg	1.267302782	2.589300817	legendary river of slugs
+all/midjourney_lowstep_031.jpg	3.389757837	2.951467196	black mickey mouse skull
+all/midjourney_lowstep_033.jpg	2.165179579	2.44244092	the pope had a rock band
+all/midjourney_lowstep_039.jpg	2.644930029	2.657701443	beautiful topaz girl dark
+all/midjourney_lowstep_041.jpg	1.943986542	2.614222137	a raspberry made of metal
+all/midjourney_lowstep_044.jpg	2.132904587	3.055730638	male warrior silver armor
+all/midjourney_lowstep_049.jpg	2.472262578	3.173394589	portrait of evil alchemist
+all/midjourney_lowstep_053.jpg	1.696019687	2.841551967	castle from howl's sticker
+all/midjourney_lowstep_056.jpg	2.545997226	3.135757257	survival in a winter forest
+all/midjourney_lowstep_064.jpg	1.972017159	3.066730889	monsters playing board games, baroque style
+all/midjourney_lowstep_066.jpg	1.76550155	2.390596612	a pizza with chocolate on it, sci-fi style
+all/midjourney_lowstep_078.jpg	1.771981528	2.37877521	tree of life embroidered scene, abstract style
+all/midjourney_lowstep_086.jpg	2.955258155	2.841551967	a very drunk person named aaron, sci-fi style
+all/midjourney_lowstep_093.jpg	3.116981428	2.702148916	photo of tony danza eating chili, abstract style
+all/midjourney_lowstep_105.jpg	2.218274567	3.488890048	a 2 d guitarist character design, anime style
+all/midjourney_lowstep_113.jpg	0.977683949	2.568031711	epic colourful scene from a dream, abstract style
+all/midjourney_lowstep_116.jpg	2.757389397	3.239106761	portrait of beautiful armored girl, sci-fi style
+all/midjourney_lowstep_122.jpg	3.007007681	3.374870467	chinese demon god character design, top view
+all/midjourney_lowstep_126.jpg	1.880615311	2.37877521	the shogoth wearing a santa costume, blurred detail
+all/midjourney_lowstep_128.jpg	2.243369394	2.798535131	portrait of a tang dynasty empress , soft lighting
+all/midjourney_lowstep_129.jpg	2.695368677	3.113493079	portrait of a beautiful young woman, HDR lighting
+all/midjourney_lowstep_132.jpg	2.442957962	2.838030773	a girl with rainbow in white shirt , top view
+all/midjourney_lowstep_138.jpg	1.956105243	3.361171272	render of dreamy beautiful landscape, soft lighting
+all/midjourney_lowstep_142.jpg	2.777468708	3.249433797	a biomechanical passion fruit flower, top view
+all/midjourney_lowstep_144.jpg	2.988623579	3.701931716	pendant of a silver starfish necklace, close-up
+all/midjourney_lowstep_146.jpg	2.426325581	3.720100101	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/midjourney_lowstep_149.jpg	2.791787056	3.190440744	a plasticine model of a goblin raider, HDR lighting
+all/midjourney_lowstep_152.jpg	2.301571217	2.857455034	grumpy the elder gods sitting in a bar, top view
+all/midjourney_lowstep_154.jpg	2.152199766	2.556888633	cute fluffy baby poodle giraffe hybrid, close-up
+all/midjourney_lowstep_156.jpg	1.5484512	2.600700921	an adventure party resting in a tavern, blurred detail
+all/midjourney_lowstep_170.jpg	2.160207491	2.640552565	portrait of butterflies swarming flowers, warm color
+all/midjourney_lowstep_179.jpg	1.39381957	2.22449748	underwater photography of the rough ocean, HDR lighting
+all/midjourney_lowstep_188.jpg	3.007007681	3.054879367	portrait painting of a west hightland white, soft lighting, abstract style
+all/midjourney_lowstep_190.jpg	2.48951242	3.457831122	delicious peanut butter donut with glazing , warm color, anime style
+all/midjourney_lowstep_191.jpg	2.476240979	2.965504258	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/midjourney_lowstep_198.jpg	1.299273321	2.74673979	robots creating new robots in a factory line, soft lighting, abstract style
+all/midjourney_lowstep_209.jpg	1.134565764	1.373169339	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/midjourney_lowstep_217.jpg	2.851759102	3.268206767	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/midjourney_lowstep_222.jpg	1.3429134	3.094936968	interior of cosmic highway created by the gods, cold color, top view
+all/midjourney_lowstep_232.jpg	2.600314118	2.90198339	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/midjourney_lowstep_239.jpg	0.940601322	1.945829918	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/midjourney_lowstep_241.jpg	1.116526892	2.307030807	breaking moon as seen from the surface of the moon, top view, hyper detail
+all/midjourney_lowstep_251.jpg	2.209981223	2.169304869	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/midjourney_lowstep_252.jpg	2.041016527	3.114136978	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/midjourney_lowstep_258.jpg	1.815542197	2.338498523	black broken armor and helmet laying in wild flowers, hyper detail, soft lighting
+all/midjourney_lowstep_259.jpg	0.64666085	1.126552971	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/midjourney_lowstep_265.jpg	2.837064357	2.271216891	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/midjourney_lowstep_267.jpg	2.776694622	2.330906752	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/midjourney_lowstep_276.jpg	2.343163678	3.10133505	portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style
+all/midjourney_lowstep_285.jpg	3.075586915	2.935379657	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/midjourney_lowstep_288.jpg	2.96825071	3.10230551	a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style
+all/midjourney_lowstep_298.jpg	2.565400547	2.689045915	photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style
+all/midjourney_normal_002.jpg	3.912443678	3.609476773	man lost in space
+all/midjourney_normal_009.jpg	3.792972629	3.323925447	girl from fight club
+all/midjourney_normal_011.jpg	3.825753384	3.113705614	the prince of the sun
+all/midjourney_normal_012.jpg	3.530547546	0.993286217	life bar and mana bar
+all/midjourney_normal_013.jpg	4.119921239	3.512765992	everything is a dream
+all/midjourney_normal_019.jpg	3.657121751	3.377804541	big boss eating dinner
+all/midjourney_normal_022.jpg	3.605176603	3.948399749	panda chef in a kitchen
+all/midjourney_normal_029.jpg	3.593502309	3.422276555	legendary river of slugs
+all/midjourney_normal_031.jpg	4.37231412	3.825421812	black mickey mouse skull
+all/midjourney_normal_033.jpg	3.908627165	3.739587462	the pope had a rock band
+all/midjourney_normal_039.jpg	4.058272319	3.494659672	beautiful topaz girl dark
+all/midjourney_normal_041.jpg	3.917498726	4.004060194	a raspberry made of metal
+all/midjourney_normal_044.jpg	3.590592228	3.891247881	male warrior silver armor
+all/midjourney_normal_049.jpg	3.92737756	3.708798973	portrait of evil alchemist
+all/midjourney_normal_053.jpg	3.307841757	4.115056517	castle from howl's sticker
+all/midjourney_normal_056.jpg	3.686651939	3.302738591	survival in a winter forest
+all/midjourney_normal_064.jpg	3.938212751	3.729311245	monsters playing board games, baroque style
+all/midjourney_normal_066.jpg	3.561501185	3.381448298	a pizza with chocolate on it, sci-fi style
+all/midjourney_normal_078.jpg	3.344956193	3.410832372	tree of life embroidered scene, abstract style
+all/midjourney_normal_086.jpg	3.9689969	3.715711518	a very drunk person named aaron, sci-fi style
+all/midjourney_normal_093.jpg	3.956504603	3.588447963	photo of tony danza eating chili, abstract style
+all/midjourney_normal_105.jpg	3.830080588	3.94578118	a 2 d guitarist character design, anime style
+all/midjourney_normal_113.jpg	3.401488261	3.73689006	epic colourful scene from a dream, abstract style
+all/midjourney_normal_116.jpg	4.285938012	4.12160257	portrait of beautiful armored girl, sci-fi style
+all/midjourney_normal_122.jpg	3.387909038	3.291606502	chinese demon god character design, top view
+all/midjourney_normal_126.jpg	3.509228886	2.318288169	the shogoth wearing a santa costume, blurred detail
+all/midjourney_normal_128.jpg	3.872866537	3.482467199	portrait of a tang dynasty empress , soft lighting
+all/midjourney_normal_129.jpg	3.867642035	3.597061498	portrait of a beautiful young woman, HDR lighting
+all/midjourney_normal_132.jpg	3.896040489	3.900312809	a girl with rainbow in white shirt , top view
+all/midjourney_normal_138.jpg	2.888789697	3.323965048	render of dreamy beautiful landscape, soft lighting
+all/midjourney_normal_142.jpg	3.605176603	2.90198339	a biomechanical passion fruit flower, top view
+all/midjourney_normal_144.jpg	3.559002625	3.943743533	pendant of a silver starfish necklace, close-up
+all/midjourney_normal_146.jpg	3.632335048	3.469719925	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/midjourney_normal_149.jpg	3.502432704	3.410108325	a plasticine model of a goblin raider, HDR lighting
+all/midjourney_normal_152.jpg	3.357738899	3.430465396	grumpy the elder gods sitting in a bar, top view
+all/midjourney_normal_154.jpg	3.989769364	3.548952321	cute fluffy baby poodle giraffe hybrid, close-up
+all/midjourney_normal_156.jpg	3.324474137	3.654274032	an adventure party resting in a tavern, blurred detail
+all/midjourney_normal_170.jpg	3.923239841	3.575282749	portrait of butterflies swarming flowers, warm color
+all/midjourney_normal_179.jpg	3.387959109	3.348349994	underwater photography of the rough ocean, HDR lighting
+all/midjourney_normal_188.jpg	4.289152216	3.957073951	portrait painting of a west hightland white, soft lighting, abstract style
+all/midjourney_normal_190.jpg	3.249399128	3.079505301	delicious peanut butter donut with glazing , warm color, anime style
+all/midjourney_normal_191.jpg	3.840077938	3.496291466	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/midjourney_normal_198.jpg	3.707018893	3.404134969	robots creating new robots in a factory line, soft lighting, abstract style
+all/midjourney_normal_209.jpg	3.559002625	2.865255012	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/midjourney_normal_217.jpg	3.605176603	2.133869253	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/midjourney_normal_222.jpg	3.024480393	3.410108325	interior of cosmic highway created by the gods, cold color, top view
+all/midjourney_normal_232.jpg	3.673754131	3.522621893	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/midjourney_normal_239.jpg	3.062007692	2.824058767	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/midjourney_normal_241.jpg	3.091080213	3.274264347	breaking moon as seen from the surface of the moon, top view, hyper detail
+all/midjourney_normal_251.jpg	3.673754131	3.10133505	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/midjourney_normal_252.jpg	3.347801074	3.432908534	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/midjourney_normal_258.jpg	3.923239841	3.812256598	black broken armor and helmet laying in wild flowers, hyper detail, soft lighting
+all/midjourney_normal_259.jpg	2.293266536	2.956517697	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/midjourney_normal_265.jpg	3.787887693	2.808425637	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/midjourney_normal_267.jpg	3.92991447	3.360542467	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/midjourney_normal_276.jpg	3.361858495	3.307507387	portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style
+all/midjourney_normal_285.jpg	3.958236395	3.358399036	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/midjourney_normal_288.jpg	2.903508628	3.374870467	a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style
+all/midjourney_normal_298.jpg	3.730246705	3.543429565	photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style
+all/sd1.5_highcorr_002.jpg	3.688435461	3.311510172	man lost in space
+all/sd1.5_highcorr_009.jpg	3.025091285	3.022343767	girl from fight club
+all/sd1.5_highcorr_011.jpg	2.742340814	3.430465396	the prince of the sun
+all/sd1.5_highcorr_012.jpg	3.093256891	2.059351502	life bar and mana bar
+all/sd1.5_highcorr_013.jpg	0.120426254	1.650442341	everything is a dream
+all/sd1.5_highcorr_019.jpg	2.640862716	2.354782696	big boss eating dinner
+all/sd1.5_highcorr_022.jpg	2.5465021	3.506852145	panda chef in a kitchen
+all/sd1.5_highcorr_029.jpg	3.307841757	2.956517697	legendary river of slugs
+all/sd1.5_highcorr_031.jpg	2.92075847	3.031176323	black mickey mouse skull
+all/sd1.5_highcorr_033.jpg	2.911873639	2.069982669	the pope had a rock band
+all/sd1.5_highcorr_039.jpg	2.701159713	0.78808434	beautiful topaz girl dark
+all/sd1.5_highcorr_041.jpg	2.489938377	2.199589058	a raspberry made of metal
+all/sd1.5_highcorr_044.jpg	2.355888108	3.269342324	male warrior silver armor
+all/sd1.5_highcorr_049.jpg	3.559002625	3.505237211	portrait of evil alchemist
+all/sd1.5_highcorr_053.jpg	2.803217798	3.470274726	castle from howl's sticker
+all/sd1.5_highcorr_056.jpg	3.21681531	2.543646764	survival in a winter forest
+all/sd1.5_highcorr_064.jpg	2.657997659	2.479686745	monsters playing board games, baroque style
+all/sd1.5_highcorr_066.jpg	3.159767378	3.506852145	a pizza with chocolate on it, sci-fi style
+all/sd1.5_highcorr_078.jpg	3.093635734	3.047185079	tree of life embroidered scene, abstract style
+all/sd1.5_highcorr_086.jpg	1.544809406	2.206100508	a very drunk person named aaron, sci-fi style
+all/sd1.5_highcorr_093.jpg	2.986543045	2.355533995	photo of tony danza eating chili, abstract style
+all/sd1.5_highcorr_105.jpg	2.974361596	3.189847843	a 2 d guitarist character design, anime style
+all/sd1.5_highcorr_113.jpg	0.64666085	1.705822381	epic colourful scene from a dream, abstract style
+all/sd1.5_highcorr_116.jpg	3.801556621	3.64096935	portrait of beautiful armored girl, sci-fi style
+all/sd1.5_highcorr_122.jpg	0.331720329	1.089357651	chinese demon god character design, top view
+all/sd1.5_highcorr_126.jpg	2.660597966	2.482684398	the shogoth wearing a santa costume, blurred detail
+all/sd1.5_highcorr_128.jpg	3.238537588	3.369531125	portrait of a tang dynasty empress , soft lighting
+all/sd1.5_highcorr_129.jpg	0.76123563	2.110496437	portrait of a beautiful young woman, HDR lighting
+all/sd1.5_highcorr_132.jpg	2.822270352	1.784431343	a girl with rainbow in white shirt , top view
+all/sd1.5_highcorr_138.jpg	3.265755311	3.256355245	render of dreamy beautiful landscape, soft lighting
+all/sd1.5_highcorr_142.jpg	2.592649388	2.258761363	a biomechanical passion fruit flower, top view
+all/sd1.5_highcorr_144.jpg	3.123820601	3.703773546	pendant of a silver starfish necklace, close-up
+all/sd1.5_highcorr_146.jpg	2.717645898	3.202040316	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/sd1.5_highcorr_149.jpg	2.644930029	2.828703007	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_highcorr_152.jpg	3.386504205	1.549736047	grumpy the elder gods sitting in a bar, top view
+all/sd1.5_highcorr_154.jpg	3.673754131	3.562117535	cute fluffy baby poodle giraffe hybrid, close-up
+all/sd1.5_highcorr_156.jpg	2.660597966	3.17765537	an adventure party resting in a tavern, blurred detail
+all/sd1.5_highcorr_170.jpg	2.532240117	3.031345691	portrait of butterflies swarming flowers, warm color
+all/sd1.5_highcorr_179.jpg	2.763264791	3.191417702	underwater photography of the rough ocean, HDR lighting
+all/sd1.5_highcorr_188.jpg	1.478221045	1.461634192	portrait painting of a west hightland white, soft lighting, abstract style
+all/sd1.5_highcorr_190.jpg	3.074988427	3.232987189	delicious peanut butter donut with glazing , warm color, anime style
+all/sd1.5_highcorr_191.jpg	3.008458905	2.772204703	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/sd1.5_highcorr_198.jpg	3.387909038	3.124625168	robots creating new robots in a factory line, soft lighting, abstract style
+all/sd1.5_highcorr_209.jpg	2.082442662	2.903929414	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/sd1.5_highcorr_217.jpg	2.39306082	2.75903949	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/sd1.5_highcorr_222.jpg	3.108253189	3.114500264	interior of cosmic highway created by the gods, cold color, top view
+all/sd1.5_highcorr_232.jpg	3.530547546	3.02250478	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/sd1.5_highcorr_238.jpg	2.14357511	2.469404785	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/sd1.5_highcorr_239.jpg	3.289837374	2.77261172	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_highcorr_241.jpg	3.34717137	3.269342324	breaking moon as seen from the surface of the moon, top view, hyper detail
+all/sd1.5_highcorr_251.jpg	2.420513052	2.367491079	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/sd1.5_highcorr_252.jpg	2.782759734	3.315612856	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/sd1.5_highcorr_258.jpg	3.345173159	3.189847843	black broken armor and helmet laying in wild flowers, hyper detail, soft lighting
+all/sd1.5_highcorr_259.jpg	1.228794173	2.324587432	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/sd1.5_highcorr_265.jpg	2.89203224	3.048674194	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/sd1.5_highcorr_267.jpg	3.129903806	3.291606502	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/sd1.5_highcorr_276.jpg	3.106014094	3.249433797	portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style
+all/sd1.5_highcorr_285.jpg	0.378680654	0.812315573	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/sd1.5_highcorr_288.jpg	1.750409116	2.474162417	a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style
+all/sd1.5_highcorr_298.jpg	3.421003889	3.469682644	photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style
+all/sd1.5_lowcorr_002.jpg	2.659178911	2.956517697	man lost in space
+all/sd1.5_lowcorr_009.jpg	2.874527714	2.275412354	girl from fight club
+all/sd1.5_lowcorr_011.jpg	3.116324583	2.979908012	the prince of the sun
+all/sd1.5_lowcorr_012.jpg	2.627511156	1.454923869	life bar and mana bar
+all/sd1.5_lowcorr_013.jpg	2.771446817	2.669101547	everything is a dream
+all/sd1.5_lowcorr_019.jpg	2.010516065	2.838030773	big boss eating dinner
+all/sd1.5_lowcorr_022.jpg	3.257944615	2.877526414	panda chef in a kitchen
+all/sd1.5_lowcorr_029.jpg	3.208047473	2.35091786	legendary river of slugs
+all/sd1.5_lowcorr_031.jpg	2.426325581	1.916465803	black mickey mouse skull
+all/sd1.5_lowcorr_033.jpg	2.524012104	2.971918712	the pope had a rock band
+all/sd1.5_lowcorr_039.jpg	0.335894705	0.690390841	beautiful topaz girl dark
+all/sd1.5_lowcorr_041.jpg	2.874527714	2.177872569	a raspberry made of metal
+all/sd1.5_lowcorr_044.jpg	3.257944615	3.325143686	male warrior silver armor
+all/sd1.5_lowcorr_049.jpg	1.463287163	2.181720144	portrait of evil alchemist
+all/sd1.5_lowcorr_053.jpg	3.307841757	3.50945668	castle from howl's sticker
+all/sd1.5_lowcorr_056.jpg	3.214375205	3.082998995	survival in a winter forest
+all/sd1.5_lowcorr_064.jpg	2.426325581	2.508900426	monsters playing board games, baroque style
+all/sd1.5_lowcorr_066.jpg	2.956675282	2.864560271	a pizza with chocolate on it, sci-fi style
+all/sd1.5_lowcorr_078.jpg	2.817479781	3.445889779	tree of life embroidered scene, abstract style
+all/sd1.5_lowcorr_086.jpg	2.874527714	2.116910203	a very drunk person named aaron, sci-fi style
+all/sd1.5_lowcorr_093.jpg	3.150815738	2.330703444	photo of tony danza eating chili, abstract style
+all/sd1.5_lowcorr_105.jpg	2.328729662	3.013304279	a 2 d guitarist character design, anime style
+all/sd1.5_lowcorr_113.jpg	3.150815738	3.820536448	epic colourful scene from a dream, abstract style
+all/sd1.5_lowcorr_116.jpg	2.610677849	3.035247107	portrait of beautiful armored girl, sci-fi style
+all/sd1.5_lowcorr_122.jpg	3.041723666	3.351474113	chinese demon god character design, top view
+all/sd1.5_lowcorr_126.jpg	2.093677968	2.429909143	the shogoth wearing a santa costume, blurred detail
+all/sd1.5_lowcorr_128.jpg	2.926215464	3.035568457	portrait of a tang dynasty empress , soft lighting
+all/sd1.5_lowcorr_129.jpg	3.330022312	3.510154573	portrait of a beautiful young woman, HDR lighting
+all/sd1.5_lowcorr_132.jpg	0.713190373	1.416187676	a girl with rainbow in white shirt , top view
+all/sd1.5_lowcorr_138.jpg	3.757702826	3.906719072	render of dreamy beautiful landscape, soft lighting
+all/sd1.5_lowcorr_142.jpg	2.559384627	2.798535131	a biomechanical passion fruit flower, top view
+all/sd1.5_lowcorr_144.jpg	3.357738899	3.548952321	pendant of a silver starfish necklace, close-up
+all/sd1.5_lowcorr_146.jpg	3.231077294	3.336157521	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/sd1.5_lowcorr_149.jpg	2.152199766	2.913115479	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_lowcorr_152.jpg	2.11262753	2.31896878	grumpy the elder gods sitting in a bar, top view
+all/sd1.5_lowcorr_154.jpg	3.024257523	2.805997401	cute fluffy baby poodle giraffe hybrid, close-up
+all/sd1.5_lowcorr_156.jpg	2.792237956	2.851195987	an adventure party resting in a tavern, blurred detail
+all/sd1.5_lowcorr_170.jpg	3.403754047	3.5526433	portrait of butterflies swarming flowers, warm color
+all/sd1.5_lowcorr_179.jpg	1.539115041	2.163775142	underwater photography of the rough ocean, HDR lighting
+all/sd1.5_lowcorr_188.jpg	1.702229262	2.59142422	portrait painting of a west hightland white, soft lighting, abstract style
+all/sd1.5_lowcorr_190.jpg	2.92680752	2.653500595	delicious peanut butter donut with glazing , warm color, anime style
+all/sd1.5_lowcorr_191.jpg	2.389187797	2.603839495	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/sd1.5_lowcorr_198.jpg	3.058356047	3.140830692	robots creating new robots in a factory line, soft lighting, abstract style
+all/sd1.5_lowcorr_209.jpg	3.017147546	2.592416657	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/sd1.5_lowcorr_217.jpg	2.559384627	2.666882993	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/sd1.5_lowcorr_222.jpg	1.991888058	3.094936968	interior of cosmic highway created by the gods, cold color, top view
+all/sd1.5_lowcorr_232.jpg	3.524062705	3.469961038	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/sd1.5_lowcorr_238.jpg	2.000906886	2.380364545	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/sd1.5_lowcorr_239.jpg	3.541752783	2.900809578	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_lowcorr_241.jpg	2.538526609	3.174942147	breaking moon as seen from the surface of the moon, top view, hyper detail
+all/sd1.5_lowcorr_251.jpg	2.523592728	1.585786942	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/sd1.5_lowcorr_252.jpg	2.448126137	2.634901234	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/sd1.5_lowcorr_258.jpg	3.359435142	2.494876872	black broken armor and helmet laying in wild flowers, hyper detail, soft lighting
+all/sd1.5_lowcorr_259.jpg	2.315150439	2.412171477	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/sd1.5_lowcorr_265.jpg	3.380391978	2.295092835	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/sd1.5_lowcorr_267.jpg	2.871898573	2.467831921	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/sd1.5_lowcorr_276.jpg	3.255352906	3.075619946	portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style
+all/sd1.5_lowcorr_285.jpg	1.877457019	2.245596149	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/sd1.5_lowcorr_288.jpg	2.196265106	3.054879367	a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style
+all/sd1.5_lowcorr_298.jpg	3.472753415	2.995621756	photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style
+all/sd1.5_lowstep_002.jpg	2.941741401	3.584646223	man lost in space
+all/sd1.5_lowstep_009.jpg	2.574642925	1.928094768	girl from fight club
+all/sd1.5_lowstep_011.jpg	1.977251303	2.11394401	the prince of the sun
+all/sd1.5_lowstep_012.jpg	2.093677968	1.758483236	life bar and mana bar
+all/sd1.5_lowstep_013.jpg	2.67293154	3.646722598	everything is a dream
+all/sd1.5_lowstep_019.jpg	0.298444431	2.355533995	big boss eating dinner
+all/sd1.5_lowstep_022.jpg	2.776694622	2.462224445	panda chef in a kitchen
+all/sd1.5_lowstep_029.jpg	2.742340814	2.824865559	legendary river of slugs
+all/sd1.5_lowstep_031.jpg	0.620661421	2.315698314	black mickey mouse skull
+all/sd1.5_lowstep_033.jpg	3.758770672	2.092525257	the pope had a rock band
+all/sd1.5_lowstep_039.jpg	2.725708433	2.877526414	beautiful topaz girl dark
+all/sd1.5_lowstep_041.jpg	2.804002459	2.456699832	a raspberry made of metal
+all/sd1.5_lowstep_044.jpg	3.214375205	3.799277323	male warrior silver armor
+all/sd1.5_lowstep_049.jpg	3.288125226	3.604391931	portrait of evil alchemist
+all/sd1.5_lowstep_053.jpg	3.973136983	3.943908737	castle from howl's sticker
+all/sd1.5_lowstep_056.jpg	3.524162768	3.274264347	survival in a winter forest
+all/sd1.5_lowstep_064.jpg	2.760431848	3.531237092	monsters playing board games, baroque style
+all/sd1.5_lowstep_066.jpg	2.858767479	3.061839408	a pizza with chocolate on it, sci-fi style
+all/sd1.5_lowstep_078.jpg	3.074195478	3.214232789	tree of life embroidered scene, abstract style
+all/sd1.5_lowstep_086.jpg	2.223207403	1.734292996	a very drunk person named aaron, sci-fi style
+all/sd1.5_lowstep_093.jpg	2.351513684	2.154163679	photo of tony danza eating chili, abstract style
+all/sd1.5_lowstep_105.jpg	2.368763526	3.031176323	a 2 d guitarist character design, anime style
+all/sd1.5_lowstep_113.jpg	1.079441167	3.046700546	epic colourful scene from a dream, abstract style
+all/sd1.5_lowstep_116.jpg	2.791787056	3.381448298	portrait of beautiful armored girl, sci-fi style
+all/sd1.5_lowstep_122.jpg	2.842135098	3.404134969	chinese demon god character design, top view
+all/sd1.5_lowstep_126.jpg	3.024257523	3.327464378	the shogoth wearing a santa costume, blurred detail
+all/sd1.5_lowstep_128.jpg	2.888789697	2.994768272	portrait of a tang dynasty empress , soft lighting
+all/sd1.5_lowstep_129.jpg	3.416483075	3.275195155	portrait of a beautiful young woman, HDR lighting
+all/sd1.5_lowstep_132.jpg	2.610261314	2.367491079	a girl with rainbow in white shirt , top view
+all/sd1.5_lowstep_138.jpg	3.490003257	3.185246111	render of dreamy beautiful landscape, soft lighting
+all/sd1.5_lowstep_142.jpg	2.391896453	2.851503215	a biomechanical passion fruit flower, top view
+all/sd1.5_lowstep_144.jpg	3.486039015	4.038036765	pendant of a silver starfish necklace, close-up
+all/sd1.5_lowstep_146.jpg	3.058356047	3.417300183	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/sd1.5_lowstep_149.jpg	2.097882875	2.679341611	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_lowstep_152.jpg	1.765019055	1.952687802	grumpy the elder gods sitting in a bar, top view
+all/sd1.5_lowstep_154.jpg	3.39100366	3.311978472	cute fluffy baby poodle giraffe hybrid, close-up
+all/sd1.5_lowstep_156.jpg	2.179358212	2.467831921	an adventure party resting in a tavern, blurred detail
+all/sd1.5_lowstep_170.jpg	3.018173564	2.748735776	portrait of butterflies swarming flowers, warm color
+all/sd1.5_lowstep_179.jpg	2.83450926	3.102285456	underwater photography of the rough ocean, HDR lighting
+all/sd1.5_lowstep_188.jpg	1.594706548	1.94279623	portrait painting of a west hightland white, soft lighting, abstract style
+all/sd1.5_lowstep_190.jpg	2.885477796	3.402927392	delicious peanut butter donut with glazing , warm color, anime style
+all/sd1.5_lowstep_191.jpg	2.58928805	2.543646764	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/sd1.5_lowstep_198.jpg	3.108728168	2.784549692	robots creating new robots in a factory line, soft lighting, abstract style
+all/sd1.5_lowstep_209.jpg	2.689121932	2.945998379	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/sd1.5_lowstep_217.jpg	3.800500414	3.564494822	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/sd1.5_lowstep_222.jpg	2.875399859	2.943352484	interior of cosmic highway created by the gods, cold color, top view
+all/sd1.5_lowstep_232.jpg	1.971039124	2.653500595	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/sd1.5_lowstep_238.jpg	2.206516657	2.16726552	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/sd1.5_lowstep_239.jpg	3.741408859	2.646301338	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_lowstep_241.jpg	0.143533905	0.589762748	breaking moon as seen from the surface of the moon, top view, hyper detail
+all/sd1.5_lowstep_251.jpg	3.093256891	3.3393159	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/sd1.5_lowstep_252.jpg	3.673501579	2.504517295	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/sd1.5_lowstep_258.jpg	2.974361596	3.37273494	black broken armor and helmet laying in wild flowers, hyper detail, soft lighting
+all/sd1.5_lowstep_259.jpg	2.742340814	2.772204703	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/sd1.5_lowstep_265.jpg	2.671047584	2.438348501	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/sd1.5_lowstep_267.jpg	3.195617381	2.678331145	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/sd1.5_lowstep_276.jpg	3.490797944	3.483126252	portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style
+all/sd1.5_lowstep_285.jpg	2.309898917	2.429909143	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/sd1.5_lowstep_288.jpg	2.632073999	3.238617735	a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style
+all/sd1.5_lowstep_298.jpg	2.941741401	3.274264347	photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style
+all/sd1.5_normal_002.jpg	2.7089479	3.191417702	man lost in space
+all/sd1.5_normal_009.jpg	3.986962403	2.775303755	girl from fight club
+all/sd1.5_normal_011.jpg	2.203182133	2.486100389	the prince of the sun
+all/sd1.5_normal_012.jpg	2.989757839	2.142312157	life bar and mana bar
+all/sd1.5_normal_013.jpg	2.874527714	2.616801603	everything is a dream
+all/sd1.5_normal_019.jpg	2.179358212	2.389907299	big boss eating dinner
+all/sd1.5_normal_022.jpg	2.600314118	2.868587123	panda chef in a kitchen
+all/sd1.5_normal_029.jpg	2.974361596	1.934023105	legendary river of slugs
+all/sd1.5_normal_031.jpg	2.851759102	2.74673979	black mickey mouse skull
+all/sd1.5_normal_033.jpg	3.389757837	2.318288169	the pope had a rock band
+all/sd1.5_normal_039.jpg	3.333592147	2.835190856	beautiful topaz girl dark
+all/sd1.5_normal_041.jpg	3.274744941	1.9250157	a raspberry made of metal
+all/sd1.5_normal_044.jpg	2.899057018	3.146889346	male warrior silver armor
+all/sd1.5_normal_049.jpg	2.940135868	2.885703528	portrait of evil alchemist
+all/sd1.5_normal_053.jpg	2.817259418	3.315612856	castle from howl's sticker
+all/sd1.5_normal_056.jpg	3.361858495	3.387308117	survival in a winter forest
+all/sd1.5_normal_064.jpg	2.518413241	2.999704571	monsters playing board games, baroque style
+all/sd1.5_normal_066.jpg	2.785504238	2.794502694	a pizza with chocolate on it, sci-fi style
+all/sd1.5_normal_078.jpg	3.707018893	3.522621893	tree of life embroidered scene, abstract style
+all/sd1.5_normal_086.jpg	2.65595515	2.283154863	a very drunk person named aaron, sci-fi style
+all/sd1.5_normal_093.jpg	2.776844014	2.7906625	photo of tony danza eating chili, abstract style
+all/sd1.5_normal_105.jpg	2.736106345	3.180285613	a 2 d guitarist character design, anime style
+all/sd1.5_normal_113.jpg	2.66201084	3.1259885	epic colourful scene from a dream, abstract style
+all/sd1.5_normal_116.jpg	2.939794687	3.269342324	portrait of beautiful armored girl, sci-fi style
+all/sd1.5_normal_122.jpg	2.996365552	2.70330186	chinese demon god character design, top view
+all/sd1.5_normal_126.jpg	1.931518323	3.262068577	the shogoth wearing a santa costume, blurred detail
+all/sd1.5_normal_128.jpg	2.520123245	3.405324243	portrait of a tang dynasty empress , soft lighting
+all/sd1.5_normal_129.jpg	3.001476926	3.137696322	portrait of a beautiful young woman, HDR lighting
+all/sd1.5_normal_132.jpg	2.090510173	3.038374121	a girl with rainbow in white shirt , top view
+all/sd1.5_normal_138.jpg	3.673198773	3.726316663	render of dreamy beautiful landscape, soft lighting
+all/sd1.5_normal_142.jpg	3.129903806	3.00217219	a biomechanical passion fruit flower, top view
+all/sd1.5_normal_144.jpg	3.428646707	3.770286326	pendant of a silver starfish necklace, close-up
+all/sd1.5_normal_146.jpg	3.601888857	3.543429565	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/sd1.5_normal_149.jpg	2.67293154	3.013543571	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_normal_152.jpg	2.717733183	1.548541117	grumpy the elder gods sitting in a bar, top view
+all/sd1.5_normal_154.jpg	3.438253731	2.960067189	cute fluffy baby poodle giraffe hybrid, close-up
+all/sd1.5_normal_156.jpg	2.831741764	3.275195155	an adventure party resting in a tavern, blurred detail
+all/sd1.5_normal_170.jpg	3.573959847	2.772204703	portrait of butterflies swarming flowers, warm color
+all/sd1.5_normal_179.jpg	2.317014	2.995621756	underwater photography of the rough ocean, HDR lighting
+all/sd1.5_normal_188.jpg	2.075516212	2.414897168	portrait painting of a west hightland white, soft lighting, abstract style
+all/sd1.5_normal_190.jpg	2.912526527	2.963619274	delicious peanut butter donut with glazing , warm color, anime style
+all/sd1.5_normal_191.jpg	3.008458905	3.10133505	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/sd1.5_normal_198.jpg	2.957803829	2.54579025	robots creating new robots in a factory line, soft lighting, abstract style
+all/sd1.5_normal_209.jpg	2.508658847	2.802483896	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/sd1.5_normal_217.jpg	3.682240656	3.763463406	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/sd1.5_normal_222.jpg	3.136939761	3.239106761	interior of cosmic highway created by the gods, cold color, top view
+all/sd1.5_normal_232.jpg	3.539096649	3.721214248	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/sd1.5_normal_238.jpg	2.329452272	2.889390821	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/sd1.5_normal_239.jpg	3.162256259	3.054879367	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_normal_241.jpg	2.344386154	2.901806096	breaking moon as seen from the surface of the moon, top view, hyper detail
+all/sd1.5_normal_251.jpg	3.248505469	3.0193248	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/sd1.5_normal_252.jpg	3.129903806	2.634813255	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/sd1.5_normal_258.jpg	3.285220668	2.56659367	black broken armor and helmet laying in wild flowers, hyper detail, soft lighting
+all/sd1.5_normal_259.jpg	1.657427619	3.013543571	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/sd1.5_normal_265.jpg	2.897963605	3.033904884	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/sd1.5_normal_267.jpg	2.888789697	1.824290847	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/sd1.5_normal_276.jpg	3.007690801	3.024436368	portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style
+all/sd1.5_normal_285.jpg	2.135311817	2.49210202	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/sd1.5_normal_288.jpg	2.760431848	3.238617735	a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style
+all/sd1.5_normal_298.jpg	3.007007681	3.457831122	photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style
+all/xl2.2_normal_002.jpg	3.748750887	3.410425033	man lost in space
+all/xl2.2_normal_009.jpg	3.757702826	3.381448298	girl from fight club
+all/xl2.2_normal_011.jpg	3.524062705	3.627943604	the prince of the sun
+all/xl2.2_normal_012.jpg	3.601888857	1.019587617	life bar and mana bar
+all/xl2.2_normal_013.jpg	4.31612288	2.187651086	everything is a dream
+all/xl2.2_normal_019.jpg	3.369254363	2.960067189	big boss eating dinner
+all/xl2.2_normal_022.jpg	2.954193289	3.877512601	panda chef in a kitchen
+all/xl2.2_normal_029.jpg	3.507430325	2.917022056	legendary river of slugs
+all/xl2.2_normal_031.jpg	3.727517958	0.564086878	black mickey mouse skull
+all/xl2.2_normal_033.jpg	3.344956193	1.722354968	the pope had a rock band
+all/xl2.2_normal_039.jpg	3.510122043	3.558776637	beautiful topaz girl dark
+all/xl2.2_normal_041.jpg	3.076007049	1.51418148	a raspberry made of metal
+all/xl2.2_normal_044.jpg	3.479361124	3.857782273	male warrior silver armor
+all/xl2.2_normal_049.jpg	2.896939758	3.584646223	portrait of evil alchemist
+all/xl2.2_normal_053.jpg	3.700231162	3.480852014	castle from howl's sticker
+all/xl2.2_normal_056.jpg	3.373697126	2.921613433	survival in a winter forest
+all/xl2.2_normal_064.jpg	3.837774272	3.882612824	monsters playing board games, baroque style
+all/xl2.2_normal_066.jpg	3.034849246	3.046700546	a pizza with chocolate on it, sci-fi style
+all/xl2.2_normal_078.jpg	3.30238721	3.799471502	tree of life embroidered scene, abstract style
+all/xl2.2_normal_086.jpg	3.984089334	1.9250157	a very drunk person named aaron, sci-fi style
+all/xl2.2_normal_093.jpg	3.531316317	2.820363609	photo of tony danza eating chili, abstract style
+all/xl2.2_normal_105.jpg	3.214005785	3.410425033	a 2 d guitarist character design, anime style
+all/xl2.2_normal_113.jpg	2.586734895	3.380663214	epic colourful scene from a dream, abstract style
+all/xl2.2_normal_116.jpg	3.662501677	3.837079833	portrait of beautiful armored girl, sci-fi style
+all/xl2.2_normal_122.jpg	3.610752151	3.374870467	chinese demon god character design, top view
+all/xl2.2_normal_126.jpg	3.667148222	3.345634382	the shogoth wearing a santa costume, blurred detail
+all/xl2.2_normal_128.jpg	2.459590343	2.719543848	portrait of a tang dynasty empress , soft lighting
+all/xl2.2_normal_129.jpg	3.825753384	3.866112497	portrait of a beautiful young woman, HDR lighting
+all/xl2.2_normal_132.jpg	3.628001993	3.114136978	a girl with rainbow in white shirt , top view
+all/xl2.2_normal_138.jpg	3.193169444	3.569709785	render of dreamy beautiful landscape, soft lighting
+all/xl2.2_normal_142.jpg	3.195617381	3.907443374	a biomechanical passion fruit flower, top view
+all/xl2.2_normal_144.jpg	4.106196029	3.575282749	pendant of a silver starfish necklace, close-up
+all/xl2.2_normal_146.jpg	3.474317862	3.455708742	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/xl2.2_normal_149.jpg	3.199282771	3.369510326	a plasticine model of a goblin raider, HDR lighting
+all/xl2.2_normal_152.jpg	3.169097903	1.948891644	grumpy the elder gods sitting in a bar, top view
+all/xl2.2_normal_154.jpg	2.871898573	3.135757257	cute fluffy baby poodle giraffe hybrid, close-up
+all/xl2.2_normal_156.jpg	3.214375205	3.584393825	an adventure party resting in a tavern, blurred detail
+all/xl2.2_normal_170.jpg	2.941929382	2.956517697	portrait of butterflies swarming flowers, warm color
+all/xl2.2_normal_179.jpg	3.017147546	3.116693004	underwater photography of the rough ocean, HDR lighting
+all/xl2.2_normal_188.jpg	3.818072561	3.094936968	portrait painting of a west hightland white, soft lighting, abstract style
+all/xl2.2_normal_190.jpg	3.645251835	3.197097634	delicious peanut butter donut with glazing , warm color, anime style
+all/xl2.2_normal_191.jpg	2.842135098	2.877526414	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/xl2.2_normal_198.jpg	3.165749619	2.71557697	robots creating new robots in a factory line, soft lighting, abstract style
+all/xl2.2_normal_209.jpg	3.740283654	2.838030773	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/xl2.2_normal_217.jpg	3.658936789	3.506852145	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/xl2.2_normal_222.jpg	2.403882268	2.689956442	interior of cosmic highway created by the gods, cold color, top view
+all/xl2.2_normal_232.jpg	3.568964411	3.708798973	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/xl2.2_normal_238.jpg	1.636189301	1.799906586	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/xl2.2_normal_239.jpg	3.188291344	1.897445686	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/xl2.2_normal_241.jpg	3.124885569	2.69321342	breaking moon as seen from the surface of the moon, top view, hyper detail
+all/xl2.2_normal_251.jpg	3.196755943	2.486006301	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/xl2.2_normal_252.jpg	2.785504238	3.42150843	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/xl2.2_normal_258.jpg	3.432145599	3.444308638	black broken armor and helmet laying in wild flowers, hyper detail, soft lighting
+all/xl2.2_normal_259.jpg	3.419625599	3.050789396	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/xl2.2_normal_265.jpg	2.917313663	2.616801603	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/xl2.2_normal_267.jpg	3.852708154	2.628670045	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/xl2.2_normal_276.jpg	3.487792991	3.348349994	portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style
+all/xl2.2_normal_285.jpg	2.996365552	2.86290332	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/xl2.2_normal_288.jpg	2.746169865	3.116693004	a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style
+all/xl2.2_normal_298.jpg	3.903999466	3.789673744	photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style

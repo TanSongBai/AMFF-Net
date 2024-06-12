@@ -1,0 +1,595 @@
+all/AttnGAN_normal_002.jpg	0.195283431	0.506802093	man lost in space
+all/AttnGAN_normal_012.jpg	1.337589887	0.936285696	life bar and mana bar
+all/AttnGAN_normal_016.jpg	1.174495727	0.541980536	very sad rabbit crying
+all/AttnGAN_normal_019.jpg	0.821435934	1.02066036	big boss eating dinner
+all/AttnGAN_normal_022.jpg	1.428382741	0.784257411	panda chef in a kitchen
+all/AttnGAN_normal_028.jpg	1.527555519	0.686697692	maroon to black gradient
+all/AttnGAN_normal_039.jpg	1.247523795	0.945308415	beautiful topaz girl dark
+all/AttnGAN_normal_044.jpg	1.106599613	0.553112625	male warrior silver armor
+all/AttnGAN_normal_051.jpg	1.062470367	0.981735619	hanging gardens of babylon
+all/AttnGAN_normal_059.jpg	0.753539821	0.441791736	barak obama as master chief
+all/AttnGAN_normal_061.jpg	0.678182301	0.409963958	a yellow rendition of venom, sci-fi style
+all/AttnGAN_normal_064.jpg	0.935417685	1.184861428	monsters playing board games, baroque style
+all/AttnGAN_normal_067.jpg	1.042384048	0.457481316	a woman in newspaper clothes, realistic style
+all/AttnGAN_normal_069.jpg	1.116526892	0.564086878	synthwave astronaut tabby cat, baroque style
+all/AttnGAN_normal_074.jpg	0.850998035	0.49324274	legionary of the roman empire, baroque style
+all/AttnGAN_normal_077.jpg	1.119807896	0.257352514	a anthropomorphic cat warrior, realistic style
+all/AttnGAN_normal_080.jpg	0.812984657	0.481457492	painted portrait of goblin man, anime style
+all/AttnGAN_normal_081.jpg	0.955535203	0.406335814	large purple lovecraftian void, sci-fi style
+all/AttnGAN_normal_084.jpg	0.875752826	0.541980536	sheep that looks like broccoli, baroque style
+all/AttnGAN_normal_086.jpg	1.161274584	0.767535581	a very drunk person named aaron, sci-fi style
+all/AttnGAN_normal_088.jpg	1.22513052	1.02748653	a space shuttle flying in space, abstract style
+all/AttnGAN_normal_100.jpg	1.178897031	1.02123126	a small garden buzzing with bees, anime style
+all/AttnGAN_normal_101.jpg	0.829617037	0.994900832	a man playing an invisible cello, sci-fi style
+all/AttnGAN_normal_104.jpg	0.784493346	0.468583101	a biomechanical cybertronic frog, baroque style
+all/AttnGAN_normal_107.jpg	1.014269206	0.856484966	spritesheet game asset vector art, realistic style
+all/AttnGAN_normal_110.jpg	0.779719895	0.231318429	painted portrait of intense woman, anime style
+all/AttnGAN_normal_113.jpg	0.879514179	0.731596555	epic colourful scene from a dream, abstract style
+all/AttnGAN_normal_114.jpg	1.038703499	0.631037248	donut glazed with white chocolate, baroque style
+all/AttnGAN_normal_119.jpg	1.297636099	0.659590655	female demon in a medieval dungeon, baroque style
+all/AttnGAN_normal_131.jpg	0.971526322	0.471247526	cute fluffy baby panda lion hybrid , cold color
+all/AttnGAN_normal_142.jpg	0.807856712	0.842546938	a biomechanical passion fruit flower, top view
+all/AttnGAN_normal_146.jpg	0.79126251	0.431166364	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/AttnGAN_normal_149.jpg	0.792278167	1.56824891	a plasticine model of a goblin raider, HDR lighting
+all/AttnGAN_normal_156.jpg	1.977251303	1.310865965	an adventure party resting in a tavern, blurred detail
+all/AttnGAN_normal_161.jpg	0.780698266	0.486320092	cute fluffy baby lop eared bunny rabbit, cold color
+all/AttnGAN_normal_162.jpg	0.747278376	0.767535581	an industrial geometric temple lab room, top view
+all/AttnGAN_normal_172.jpg	0.940601322	1.101591216	art of a mimic from dungeons and dragons, top view
+all/AttnGAN_normal_177.jpg	0.86802727	0.566059704	a huge wooden carving sculpture of a fox, hyper detail
+all/AttnGAN_normal_179.jpg	1.063255848	0.641620949	underwater photography of the rough ocean, HDR lighting
+all/AttnGAN_normal_188.jpg	1.252358797	1.137109539	portrait painting of a west hightland white, soft lighting, abstract style
+all/AttnGAN_normal_196.jpg	0.8493261	0.629428475	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/AttnGAN_normal_204.jpg	0.821435934	0.853679026	2 friends partying and are facing the camera, close-up, baroque style
+all/AttnGAN_normal_219.jpg	0.829617037	0.863248694	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/AttnGAN_normal_226.jpg	1.403283136	1.471372759	an anatomically correct cybertronic human heart, cold color, close-up
+all/AttnGAN_normal_229.jpg	0.799027902	0.696426448	a heavily bloodied horrified pretty young woman, warm color, hyper detail
+all/AttnGAN_normal_230.jpg	1.248661629	0.702583315	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/AttnGAN_normal_235.jpg	1.391763291	0.964999916	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/AttnGAN_normal_237.jpg	0.678279008	0.566059704	portrait of terrified green ball gown young woman, top view, long-shot
+all/AttnGAN_normal_245.jpg	1.126728573	0.913485487	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/AttnGAN_normal_246.jpg	0.463704663	0.27081407	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/AttnGAN_normal_247.jpg	1.077517831	0.726968261	a saint noble high priestess pray for god in church, elevation view, HDR lighting
+all/AttnGAN_normal_252.jpg	0.749492217	0.909855359	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/AttnGAN_normal_270.jpg	0.875752826	0.864811115	european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style
+all/AttnGAN_normal_273.jpg	0.731526985	1.759600793	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/AttnGAN_normal_279.jpg	0.807856712	0.686697692	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/AttnGAN_normal_281.jpg	0.971526322	0.696426448	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/AttnGAN_normal_283.jpg	0.850777428	0.957159937	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/AttnGAN_normal_289.jpg	0	0.058708113	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/AttnGAN_normal_290.jpg	0.799027902	0.933456892	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/AttnGAN_normal_294.jpg	1.284080589	0.940192641	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/DALLE2_normal_002.jpg	2.855791343	2.908503737	man lost in space
+all/DALLE2_normal_012.jpg	2.792237956	2.69321342	life bar and mana bar
+all/DALLE2_normal_016.jpg	2.790423236	3.569908726	very sad rabbit crying
+all/DALLE2_normal_019.jpg	2.729274555	3.489909055	big boss eating dinner
+all/DALLE2_normal_022.jpg	2.568394371	4.118503049	panda chef in a kitchen
+all/DALLE2_normal_028.jpg	1.104874015	1.809261893	maroon to black gradient
+all/DALLE2_normal_039.jpg	2.674859949	2.568031711	beautiful topaz girl dark
+all/DALLE2_normal_044.jpg	2.459590343	3.44363061	male warrior silver armor
+all/DALLE2_normal_051.jpg	2.927618961	2.139899198	hanging gardens of babylon
+all/DALLE2_normal_061.jpg	1.815542197	2.486699878	a yellow rendition of venom, sci-fi style
+all/DALLE2_normal_064.jpg	2.545997226	3.169153524	monsters playing board games, baroque style
+all/DALLE2_normal_069.jpg	3.259652507	3.465014103	synthwave astronaut tabby cat, baroque style
+all/DALLE2_normal_074.jpg	2.012346089	2.691901755	legionary of the roman empire, baroque style
+all/DALLE2_normal_077.jpg	2.765509892	3.2326522	a anthropomorphic cat warrior, realistic style
+all/DALLE2_normal_080.jpg	1.881435837	3.895028099	painted portrait of goblin man, anime style
+all/DALLE2_normal_081.jpg	1.523022688	2.951467196	large purple lovecraftian void, sci-fi style
+all/DALLE2_normal_084.jpg	2.92075847	3.256355245	sheep that looks like broccoli, baroque style
+all/DALLE2_normal_086.jpg	3.773548415	2.982848125	a very drunk person named aaron, sci-fi style
+all/DALLE2_normal_088.jpg	3.334754679	3.517088733	a space shuttle flying in space, abstract style
+all/DALLE2_normal_100.jpg	2.248459435	3.274006549	a small garden buzzing with bees, anime style
+all/DALLE2_normal_101.jpg	2.731907882	2.202257515	a man playing an invisible cello, sci-fi style
+all/DALLE2_normal_104.jpg	2.686140018	3.154626828	a biomechanical cybertronic frog, baroque style
+all/DALLE2_normal_107.jpg	2.713760366	2.971918712	spritesheet game asset vector art, realistic style
+all/DALLE2_normal_110.jpg	2.251322245	2.805902798	painted portrait of intense woman, anime style
+all/DALLE2_normal_113.jpg	0.889332048	1.44367974	epic colourful scene from a dream, abstract style
+all/DALLE2_normal_114.jpg	2.837204233	2.790068621	donut glazed with white chocolate, baroque style
+all/DALLE2_normal_119.jpg	3.041507365	2.995621756	female demon in a medieval dungeon, baroque style
+all/DALLE2_normal_131.jpg	3.387959109	3.153270423	cute fluffy baby panda lion hybrid , cold color
+all/DALLE2_normal_142.jpg	2.14357511	2.443074357	a biomechanical passion fruit flower, top view
+all/DALLE2_normal_146.jpg	3.249399128	3.50130916	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/DALLE2_normal_149.jpg	1.727765593	2.614222137	a plasticine model of a goblin raider, HDR lighting
+all/DALLE2_normal_156.jpg	2.127265738	2.000093891	an adventure party resting in a tavern, blurred detail
+all/DALLE2_normal_161.jpg	2.956675282	3.708798973	cute fluffy baby lop eared bunny rabbit, cold color
+all/DALLE2_normal_172.jpg	3.359435142	1.763328481	art of a mimic from dungeons and dragons, top view
+all/DALLE2_normal_177.jpg	2.524012104	3.244503722	a huge wooden carving sculpture of a fox, hyper detail
+all/DALLE2_normal_179.jpg	1.867036088	2.746134145	underwater photography of the rough ocean, HDR lighting
+all/DALLE2_normal_188.jpg	2.7089479	1.54386854	portrait painting of a west hightland white, soft lighting, abstract style
+all/DALLE2_normal_196.jpg	1.956105243	1.498880017	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/DALLE2_normal_204.jpg	3.576593619	3.453076131	2 friends partying and are facing the camera, close-up, baroque style
+all/DALLE2_normal_219.jpg	2.299764158	2.983770234	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/DALLE2_normal_226.jpg	2.825502717	3.153995905	an anatomically correct cybertronic human heart, cold color, close-up
+all/DALLE2_normal_229.jpg	2.476222723	1.94279623	a heavily bloodied horrified pretty young woman, warm color, hyper detail
+all/DALLE2_normal_230.jpg	2.299764158	2.960067189	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/DALLE2_normal_235.jpg	2.874527714	3.043538165	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/DALLE2_normal_237.jpg	3.316649193	3.348349994	portrait of terrified green ball gown young woman, top view, long-shot
+all/DALLE2_normal_245.jpg	3.024257523	3.351167422	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/DALLE2_normal_246.jpg	2.082442662	2.366720668	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/DALLE2_normal_247.jpg	1.493154926	2.218965969	a saint noble high priestess pray for god in church, elevation view, HDR lighting
+all/DALLE2_normal_252.jpg	2.462183558	2.452499565	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/DALLE2_normal_270.jpg	1.262923612	2.324182247	european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style
+all/DALLE2_normal_273.jpg	2.166977719	2.281498001	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/DALLE2_normal_279.jpg	3.380391978	3.250130605	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/DALLE2_normal_281.jpg	3.576252467	3.078582412	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/DALLE2_normal_283.jpg	2.625770283	3.035247107	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/DALLE2_normal_289.jpg	3.075586915	3.491984103	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/DALLE2_normal_290.jpg	3.193169444	2.874303424	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/DALLE2_normal_294.jpg	2.806879489	2.557728222	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/glide_normal_002.jpg	0.508202054	0.902085383	man lost in space
+all/glide_normal_012.jpg	1.010879855	0.731218487	life bar and mana bar
+all/glide_normal_016.jpg	1.540771109	1.585290614	very sad rabbit crying
+all/glide_normal_019.jpg	0.763754201	0.739160734	big boss eating dinner
+all/glide_normal_022.jpg	1.527555519	0.909339471	panda chef in a kitchen
+all/glide_normal_028.jpg	1.310287954	1.209905872	maroon to black gradient
+all/glide_normal_039.jpg	0.582188173	0.480827465	beautiful topaz girl dark
+all/glide_normal_044.jpg	1.834018423	0.92160537	male warrior silver armor
+all/glide_normal_051.jpg	1.428382741	1.60050067	hanging gardens of babylon
+all/glide_normal_059.jpg	0.635396352	0.288039227	barak obama as master chief
+all/glide_normal_061.jpg	1.494912264	1.231874682	a yellow rendition of venom, sci-fi style
+all/glide_normal_064.jpg	1.149675658	1.536125842	monsters playing board games, baroque style
+all/glide_normal_067.jpg	1.077517831	0.507503744	a woman in newspaper clothes, realistic style
+all/glide_normal_069.jpg	1.785560751	2.122737165	synthwave astronaut tabby cat, baroque style
+all/glide_normal_074.jpg	1.296708731	0.753490226	legionary of the roman empire, baroque style
+all/glide_normal_077.jpg	1.539115041	2.139899198	a anthropomorphic cat warrior, realistic style
+all/glide_normal_080.jpg	1.012573225	1.745318022	painted portrait of goblin man, anime style
+all/glide_normal_081.jpg	0.972096944	1.152887677	large purple lovecraftian void, sci-fi style
+all/glide_normal_084.jpg	1.575270793	1.644548225	sheep that looks like broccoli, baroque style
+all/glide_normal_086.jpg	1.075025374	0.720129493	a very drunk person named aaron, sci-fi style
+all/glide_normal_088.jpg	1.086342024	2.139899198	a space shuttle flying in space, abstract style
+all/glide_normal_100.jpg	1.358005834	1.411682898	a small garden buzzing with bees, anime style
+all/glide_normal_101.jpg	0	0.190499441	a man playing an invisible cello, sci-fi style
+all/glide_normal_104.jpg	1.632795725	2.178897063	a biomechanical cybertronic frog, baroque style
+all/glide_normal_107.jpg	1.056157156	1.578814508	spritesheet game asset vector art, realistic style
+all/glide_normal_110.jpg	0.229783115	0.388286871	painted portrait of intense woman, anime style
+all/glide_normal_113.jpg	0.298444431	2.41761037	epic colourful scene from a dream, abstract style
+all/glide_normal_114.jpg	1.448560438	2.402534584	donut glazed with white chocolate, baroque style
+all/glide_normal_119.jpg	1.086342024	0.910288069	female demon in a medieval dungeon, baroque style
+all/glide_normal_131.jpg	1.594706548	2.127109224	cute fluffy baby panda lion hybrid , cold color
+all/glide_normal_142.jpg	1.391281461	2.433914506	a biomechanical passion fruit flower, top view
+all/glide_normal_146.jpg	1.866501955	2.740407521	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/glide_normal_149.jpg	1.14671176	1.554938564	a plasticine model of a goblin raider, HDR lighting
+all/glide_normal_156.jpg	0.776328629	1.325066167	an adventure party resting in a tavern, blurred detail
+all/glide_normal_161.jpg	1.609770477	2.035648457	cute fluffy baby lop eared bunny rabbit, cold color
+all/glide_normal_162.jpg	1.309475045	1.255488616	an industrial geometric temple lab room, top view
+all/glide_normal_172.jpg	0.392090064	0.277575547	art of a mimic from dungeons and dragons, top view
+all/glide_normal_177.jpg	0.128895573	0.341602936	a huge wooden carving sculpture of a fox, hyper detail
+all/glide_normal_179.jpg	0.014779217	1.280365205	underwater photography of the rough ocean, HDR lighting
+all/glide_normal_188.jpg	0.946043702	0.692100914	portrait painting of a west hightland white, soft lighting, abstract style
+all/glide_normal_196.jpg	0.392942638	0.483118797	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/glide_normal_204.jpg	0.905232817	1.149047512	2 friends partying and are facing the camera, close-up, baroque style
+all/glide_normal_219.jpg	1.22513052	1.791293517	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/glide_normal_226.jpg	0.630028469	0.191822787	an anatomically correct cybertronic human heart, cold color, close-up
+all/glide_normal_229.jpg	0.552320411	0.69188714	a heavily bloodied horrified pretty young woman, warm color, hyper detail
+all/glide_normal_230.jpg	0.859637576	0.742483923	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/glide_normal_235.jpg	0.875047949	1.483310731	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/glide_normal_237.jpg	0.8493261	0.519696217	portrait of terrified green ball gown young woman, top view, long-shot
+all/glide_normal_245.jpg	1.011545053	0.831414849	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/glide_normal_246.jpg	1.765019055	1.194190381	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/glide_normal_247.jpg	0.358179955	0.59256494	a saint noble high priestess pray for god in church, elevation view, HDR lighting
+all/glide_normal_252.jpg	2.060642411	2.094813219	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/glide_normal_270.jpg	1.528177025	2.153439652	european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style
+all/glide_normal_273.jpg	1.063255848	1.812098374	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/glide_normal_279.jpg	1.433419401	1.474049467	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/glide_normal_281.jpg	0.701659223	0.679471865	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/glide_normal_283.jpg	1.075025374	1.312705603	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/glide_normal_289.jpg	1.098613732	1.221288303	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/glide_normal_290.jpg	1.899886722	1.289688929	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/glide_normal_294.jpg	0.592546579	0.753884027	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/midjourney_lowstep_002.jpg	2.576017007	3.259317616	man lost in space
+all/midjourney_lowstep_012.jpg	2.610261314	1.976390846	life bar and mana bar
+all/midjourney_lowstep_016.jpg	2.188089699	2.521914306	very sad rabbit crying
+all/midjourney_lowstep_019.jpg	2.29958451	3.659137873	big boss eating dinner
+all/midjourney_lowstep_022.jpg	2.686140018	3.72764949	panda chef in a kitchen
+all/midjourney_lowstep_028.jpg	1.877457019	1.482013745	maroon to black gradient
+all/midjourney_lowstep_039.jpg	2.644930029	2.657701443	beautiful topaz girl dark
+all/midjourney_lowstep_044.jpg	2.132904587	3.055730638	male warrior silver armor
+all/midjourney_lowstep_051.jpg	2.323921604	3.369510326	hanging gardens of babylon
+all/midjourney_lowstep_059.jpg	3.407636041	3.627943604	barak obama as master chief
+all/midjourney_lowstep_061.jpg	3.165054602	3.706511037	a yellow rendition of venom, sci-fi style
+all/midjourney_lowstep_064.jpg	1.972017159	3.066730889	monsters playing board games, baroque style
+all/midjourney_lowstep_067.jpg	2.966953132	2.757266234	a woman in newspaper clothes, realistic style
+all/midjourney_lowstep_069.jpg	3.093635734	3.417262215	synthwave astronaut tabby cat, baroque style
+all/midjourney_lowstep_074.jpg	2.782759734	2.948215667	legionary of the roman empire, baroque style
+all/midjourney_lowstep_077.jpg	2.888789697	3.40931236	a anthropomorphic cat warrior, realistic style
+all/midjourney_lowstep_080.jpg	2.659178911	3.075004622	painted portrait of goblin man, anime style
+all/midjourney_lowstep_081.jpg	1.433419401	2.268627069	large purple lovecraftian void, sci-fi style
+all/midjourney_lowstep_084.jpg	1.991888058	3.429200187	sheep that looks like broccoli, baroque style
+all/midjourney_lowstep_086.jpg	2.955258155	2.841551967	a very drunk person named aaron, sci-fi style
+all/midjourney_lowstep_088.jpg	1.946610757	3.142688856	a space shuttle flying in space, abstract style
+all/midjourney_lowstep_100.jpg	1.295323696	2.219265721	a small garden buzzing with bees, anime style
+all/midjourney_lowstep_101.jpg	3.143483028	2.768398323	a man playing an invisible cello, sci-fi style
+all/midjourney_lowstep_104.jpg	2.505030811	3.178502772	a biomechanical cybertronic frog, baroque style
+all/midjourney_lowstep_107.jpg	2.48951242	2.699333701	spritesheet game asset vector art, realistic style
+all/midjourney_lowstep_110.jpg	3.39100366	3.548952321	painted portrait of intense woman, anime style
+all/midjourney_lowstep_113.jpg	0.977683949	2.568031711	epic colourful scene from a dream, abstract style
+all/midjourney_lowstep_114.jpg	2.420513052	3.493385689	donut glazed with white chocolate, baroque style
+all/midjourney_lowstep_119.jpg	2.503716151	3.14107795	female demon in a medieval dungeon, baroque style
+all/midjourney_lowstep_131.jpg	2.980532355	2.712737878	cute fluffy baby panda lion hybrid , cold color
+all/midjourney_lowstep_142.jpg	2.777468708	3.249433797	a biomechanical passion fruit flower, top view
+all/midjourney_lowstep_146.jpg	2.426325581	3.720100101	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/midjourney_lowstep_149.jpg	2.791787056	3.190440744	a plasticine model of a goblin raider, HDR lighting
+all/midjourney_lowstep_156.jpg	1.5484512	2.600700921	an adventure party resting in a tavern, blurred detail
+all/midjourney_lowstep_161.jpg	2.060413207	2.811700345	cute fluffy baby lop eared bunny rabbit, cold color
+all/midjourney_lowstep_162.jpg	1.505377327	2.60460913	an industrial geometric temple lab room, top view
+all/midjourney_lowstep_172.jpg	1.821700312	1.474049467	art of a mimic from dungeons and dragons, top view
+all/midjourney_lowstep_177.jpg	2.193472252	3.075004622	a huge wooden carving sculpture of a fox, hyper detail
+all/midjourney_lowstep_179.jpg	1.39381957	2.22449748	underwater photography of the rough ocean, HDR lighting
+all/midjourney_lowstep_188.jpg	3.007007681	3.054879367	portrait painting of a west hightland white, soft lighting, abstract style
+all/midjourney_lowstep_196.jpg	2.213514948	2.497857823	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/midjourney_lowstep_204.jpg	3.472753415	3.742267655	2 friends partying and are facing the camera, close-up, baroque style
+all/midjourney_lowstep_219.jpg	3.25960126	2.458299452	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/midjourney_lowstep_226.jpg	1.674946946	3.154626828	an anatomically correct cybertronic human heart, cold color, close-up
+all/midjourney_lowstep_230.jpg	3.357738899	2.982848125	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/midjourney_lowstep_235.jpg	2.075576292	2.132059044	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/midjourney_lowstep_237.jpg	3.324474137	3.351474113	portrait of terrified green ball gown young woman, top view, long-shot
+all/midjourney_lowstep_245.jpg	3.14151795	3.022343767	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/midjourney_lowstep_246.jpg	2.875399859	2.601056923	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/midjourney_lowstep_247.jpg	1.161274584	1.739360402	a saint noble high priestess pray for god in church, elevation view, HDR lighting
+all/midjourney_lowstep_252.jpg	2.041016527	3.114136978	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/midjourney_lowstep_270.jpg	2.363781612	3.10230551	european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style
+all/midjourney_lowstep_273.jpg	0.663293231	2.271926577	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/midjourney_lowstep_279.jpg	2.015840767	2.243796519	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/midjourney_lowstep_281.jpg	2.869008944	2.877106534	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/midjourney_lowstep_283.jpg	1.20587568	1.653596222	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/midjourney_lowstep_289.jpg	2.260001775	2.745874276	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/midjourney_lowstep_290.jpg	3.108728168	2.653231999	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/midjourney_lowstep_294.jpg	2.36946733	2.245190143	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/midjourney_normal_002.jpg	3.912443678	3.609476773	man lost in space
+all/midjourney_normal_012.jpg	3.530547546	0.993286217	life bar and mana bar
+all/midjourney_normal_016.jpg	3.731501045	2.829700445	very sad rabbit crying
+all/midjourney_normal_019.jpg	3.657121751	3.377804541	big boss eating dinner
+all/midjourney_normal_022.jpg	3.605176603	3.948399749	panda chef in a kitchen
+all/midjourney_normal_028.jpg	2.546528083	2.338498523	maroon to black gradient
+all/midjourney_normal_039.jpg	4.058272319	3.494659672	beautiful topaz girl dark
+all/midjourney_normal_044.jpg	3.590592228	3.891247881	male warrior silver armor
+all/midjourney_normal_051.jpg	3.878442297	3.847029211	hanging gardens of babylon
+all/midjourney_normal_059.jpg	3.208047473	2.890691628	barak obama as master chief
+all/midjourney_normal_061.jpg	2.994111578	3.62556917	a yellow rendition of venom, sci-fi style
+all/midjourney_normal_064.jpg	3.938212751	3.729311245	monsters playing board games, baroque style
+all/midjourney_normal_067.jpg	3.757702826	2.844239553	a woman in newspaper clothes, realistic style
+all/midjourney_normal_069.jpg	3.856710319	3.733265315	synthwave astronaut tabby cat, baroque style
+all/midjourney_normal_074.jpg	4.02474836	3.706713088	legionary of the roman empire, baroque style
+all/midjourney_normal_077.jpg	3.645251835	3.754119177	a anthropomorphic cat warrior, realistic style
+all/midjourney_normal_080.jpg	3.727351438	3.797711871	painted portrait of goblin man, anime style
+all/midjourney_normal_081.jpg	2.742340814	3.364639327	large purple lovecraftian void, sci-fi style
+all/midjourney_normal_084.jpg	3.586777229	3.626710307	sheep that looks like broccoli, baroque style
+all/midjourney_normal_086.jpg	3.9689969	3.715711518	a very drunk person named aaron, sci-fi style
+all/midjourney_normal_088.jpg	3.643633817	3.212187972	a space shuttle flying in space, abstract style
+all/midjourney_normal_100.jpg	3.903999466	3.611900911	a small garden buzzing with bees, anime style
+all/midjourney_normal_101.jpg	3.740283654	3.167161119	a man playing an invisible cello, sci-fi style
+all/midjourney_normal_104.jpg	3.662501677	3.635603955	a biomechanical cybertronic frog, baroque style
+all/midjourney_normal_107.jpg	2.931575646	3.17765537	spritesheet game asset vector art, realistic style
+all/midjourney_normal_110.jpg	3.9689969	3.321758438	painted portrait of intense woman, anime style
+all/midjourney_normal_113.jpg	3.401488261	3.73689006	epic colourful scene from a dream, abstract style
+all/midjourney_normal_114.jpg	3.430745058	3.40931236	donut glazed with white chocolate, baroque style
+all/midjourney_normal_119.jpg	3.632335048	3.83707886	female demon in a medieval dungeon, baroque style
+all/midjourney_normal_131.jpg	3.401488261	2.16726552	cute fluffy baby panda lion hybrid , cold color
+all/midjourney_normal_142.jpg	3.605176603	2.90198339	a biomechanical passion fruit flower, top view
+all/midjourney_normal_146.jpg	3.632335048	3.469719925	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/midjourney_normal_149.jpg	3.502432704	3.410108325	a plasticine model of a goblin raider, HDR lighting
+all/midjourney_normal_156.jpg	3.324474137	3.654274032	an adventure party resting in a tavern, blurred detail
+all/midjourney_normal_161.jpg	3.516223883	3.715711518	cute fluffy baby lop eared bunny rabbit, cold color
+all/midjourney_normal_162.jpg	3.305628811	3.239106761	an industrial geometric temple lab room, top view
+all/midjourney_normal_172.jpg	3.208047473	3.088169836	art of a mimic from dungeons and dragons, top view
+all/midjourney_normal_177.jpg	3.701722739	3.836048921	a huge wooden carving sculpture of a fox, hyper detail
+all/midjourney_normal_179.jpg	3.387959109	3.348349994	underwater photography of the rough ocean, HDR lighting
+all/midjourney_normal_188.jpg	4.289152216	3.957073951	portrait painting of a west hightland white, soft lighting, abstract style
+all/midjourney_normal_196.jpg	3.038537814	2.931303945	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/midjourney_normal_204.jpg	4.216241627	3.970663927	2 friends partying and are facing the camera, close-up, baroque style
+all/midjourney_normal_219.jpg	4.029366636	2.880053469	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/midjourney_normal_226.jpg	3.657064334	3.717911141	an anatomically correct cybertronic human heart, cold color, close-up
+all/midjourney_normal_230.jpg	3.442225929	3.024436368	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/midjourney_normal_235.jpg	3.455805152	3.402927392	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/midjourney_normal_237.jpg	3.60083465	3.296107282	portrait of terrified green ball gown young woman, top view, long-shot
+all/midjourney_normal_245.jpg	3.643633817	2.740407521	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/midjourney_normal_246.jpg	2.966953132	3.135757257	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/midjourney_normal_247.jpg	3.766000729	3.280058289	a saint noble high priestess pray for god in church, elevation view, HDR lighting
+all/midjourney_normal_252.jpg	3.347801074	3.432908534	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/midjourney_normal_270.jpg	3.757702826	3.465014103	european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style
+all/midjourney_normal_273.jpg	2.455012736	3.161543067	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/midjourney_normal_279.jpg	3.636963354	2.247340947	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/midjourney_normal_281.jpg	3.815818605	3.494659672	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/midjourney_normal_283.jpg	3.790180796	2.903856842	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/midjourney_normal_289.jpg	3.659493494	3.514248281	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/midjourney_normal_290.jpg	4.149074065	2.954104154	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/midjourney_normal_294.jpg	3.49654282	2.623681166	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/sd1.5_highcorr_002.jpg	3.688435461	3.311510172	man lost in space
+all/sd1.5_highcorr_012.jpg	3.093256891	2.059351502	life bar and mana bar
+all/sd1.5_highcorr_016.jpg	3.630412823	2.775303755	very sad rabbit crying
+all/sd1.5_highcorr_019.jpg	2.640862716	2.354782696	big boss eating dinner
+all/sd1.5_highcorr_022.jpg	2.5465021	3.506852145	panda chef in a kitchen
+all/sd1.5_highcorr_028.jpg	0.713190373	1.152883399	maroon to black gradient
+all/sd1.5_highcorr_039.jpg	2.701159713	0.78808434	beautiful topaz girl dark
+all/sd1.5_highcorr_044.jpg	2.355888108	3.269342324	male warrior silver armor
+all/sd1.5_highcorr_051.jpg	3.645914271	3.514248281	hanging gardens of babylon
+all/sd1.5_highcorr_059.jpg	3.837774272	3.895028099	barak obama as master chief
+all/sd1.5_highcorr_061.jpg	2.774693831	2.836266121	a yellow rendition of venom, sci-fi style
+all/sd1.5_highcorr_064.jpg	2.657997659	2.479686745	monsters playing board games, baroque style
+all/sd1.5_highcorr_067.jpg	2.791787056	1.996643532	a woman in newspaper clothes, realistic style
+all/sd1.5_highcorr_069.jpg	2.869848764	3.239106761	synthwave astronaut tabby cat, baroque style
+all/sd1.5_highcorr_074.jpg	2.765509892	3.481534167	legionary of the roman empire, baroque style
+all/sd1.5_highcorr_077.jpg	3.017147546	3.433697306	a anthropomorphic cat warrior, realistic style
+all/sd1.5_highcorr_080.jpg	2.61389334	3.202549791	painted portrait of goblin man, anime style
+all/sd1.5_highcorr_081.jpg	2.23076479	2.474154779	large purple lovecraftian void, sci-fi style
+all/sd1.5_highcorr_084.jpg	2.925297001	1.903300589	sheep that looks like broccoli, baroque style
+all/sd1.5_highcorr_086.jpg	1.544809406	2.206100508	a very drunk person named aaron, sci-fi style
+all/sd1.5_highcorr_088.jpg	3.016410807	2.752822796	a space shuttle flying in space, abstract style
+all/sd1.5_highcorr_100.jpg	2.410204999	2.47896401	a small garden buzzing with bees, anime style
+all/sd1.5_highcorr_101.jpg	2.308829171	2.796487664	a man playing an invisible cello, sci-fi style
+all/sd1.5_highcorr_104.jpg	2.852156791	3.214316689	a biomechanical cybertronic frog, baroque style
+all/sd1.5_highcorr_107.jpg	2.701232452	2.54579025	spritesheet game asset vector art, realistic style
+all/sd1.5_highcorr_110.jpg	2.442957962	2.785369917	painted portrait of intense woman, anime style
+all/sd1.5_highcorr_113.jpg	0.64666085	1.705822381	epic colourful scene from a dream, abstract style
+all/sd1.5_highcorr_114.jpg	3.893534731	3.118812912	donut glazed with white chocolate, baroque style
+all/sd1.5_highcorr_119.jpg	2.746169865	3.397119887	female demon in a medieval dungeon, baroque style
+all/sd1.5_highcorr_131.jpg	3.208047473	2.890691628	cute fluffy baby panda lion hybrid , cold color
+all/sd1.5_highcorr_142.jpg	2.592649388	2.258761363	a biomechanical passion fruit flower, top view
+all/sd1.5_highcorr_146.jpg	2.717645898	3.202040316	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/sd1.5_highcorr_149.jpg	2.644930029	2.828703007	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_highcorr_156.jpg	2.660597966	3.17765537	an adventure party resting in a tavern, blurred detail
+all/sd1.5_highcorr_161.jpg	3.438253731	3.090433934	cute fluffy baby lop eared bunny rabbit, cold color
+all/sd1.5_highcorr_162.jpg	3.359435142	2.653379023	an industrial geometric temple lab room, top view
+all/sd1.5_highcorr_172.jpg	1.92623748	1.995491019	art of a mimic from dungeons and dragons, top view
+all/sd1.5_highcorr_177.jpg	2.630872609	2.931303945	a huge wooden carving sculpture of a fox, hyper detail
+all/sd1.5_highcorr_179.jpg	2.763264791	3.191417702	underwater photography of the rough ocean, HDR lighting
+all/sd1.5_highcorr_188.jpg	1.478221045	1.461634192	portrait painting of a west hightland white, soft lighting, abstract style
+all/sd1.5_highcorr_196.jpg	2.147166571	2.33637472	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/sd1.5_highcorr_204.jpg	2.326531297	1.955961444	2 friends partying and are facing the camera, close-up, baroque style
+all/sd1.5_highcorr_219.jpg	2.602757767	2.600700921	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/sd1.5_highcorr_226.jpg	2.209149982	2.555100504	an anatomically correct cybertronic human heart, cold color, close-up
+all/sd1.5_highcorr_229.jpg	3.365299544	3.429200187	a heavily bloodied horrified pretty young woman, warm color, hyper detail
+all/sd1.5_highcorr_230.jpg	2.776694622	2.748735776	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/sd1.5_highcorr_235.jpg	1.747769213	2.106757591	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/sd1.5_highcorr_237.jpg	2.265379665	2.509500087	portrait of terrified green ball gown young woman, top view, long-shot
+all/sd1.5_highcorr_245.jpg	2.746509754	2.665169971	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/sd1.5_highcorr_246.jpg	2.83450926	2.059351502	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/sd1.5_highcorr_247.jpg	2.610261314	2.971918712	a saint noble high priestess pray for god in church, elevation view, HDR lighting
+all/sd1.5_highcorr_252.jpg	2.782759734	3.315612856	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/sd1.5_highcorr_270.jpg	3.374329815	3.347266947	european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style
+all/sd1.5_highcorr_273.jpg	3.374371279	3.311978472	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/sd1.5_highcorr_279.jpg	3.748170985	2.36794927	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/sd1.5_highcorr_281.jpg	2.821971923	2.868115497	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/sd1.5_highcorr_283.jpg	3.541752783	2.557115434	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/sd1.5_highcorr_289.jpg	2.518838781	3.336134858	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/sd1.5_highcorr_290.jpg	1.962090647	2.723869967	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/sd1.5_highcorr_294.jpg	0.421466604	0.726968261	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/sd1.5_lowcorr_002.jpg	2.659178911	2.956517697	man lost in space
+all/sd1.5_lowcorr_012.jpg	2.627511156	1.454923869	life bar and mana bar
+all/sd1.5_lowcorr_016.jpg	2.831160905	1.588396896	very sad rabbit crying
+all/sd1.5_lowcorr_019.jpg	2.010516065	2.838030773	big boss eating dinner
+all/sd1.5_lowcorr_022.jpg	3.257944615	2.877526414	panda chef in a kitchen
+all/sd1.5_lowcorr_028.jpg	0.577009925	0.642169337	maroon to black gradient
+all/sd1.5_lowcorr_039.jpg	0.335894705	0.690390841	beautiful topaz girl dark
+all/sd1.5_lowcorr_044.jpg	3.257944615	3.325143686	male warrior silver armor
+all/sd1.5_lowcorr_051.jpg	3.630412823	3.055730638	hanging gardens of babylon
+all/sd1.5_lowcorr_059.jpg	3.27751397	3.626710307	barak obama as master chief
+all/sd1.5_lowcorr_061.jpg	2.576017007	2.732709062	a yellow rendition of venom, sci-fi style
+all/sd1.5_lowcorr_064.jpg	2.426325581	2.508900426	monsters playing board games, baroque style
+all/sd1.5_lowcorr_067.jpg	2.23076479	0.957159937	a woman in newspaper clothes, realistic style
+all/sd1.5_lowcorr_069.jpg	3.270286787	3.311510172	synthwave astronaut tabby cat, baroque style
+all/sd1.5_lowcorr_074.jpg	2.600314118	2.812926678	legionary of the roman empire, baroque style
+all/sd1.5_lowcorr_077.jpg	2.966953132	3.436323658	a anthropomorphic cat warrior, realistic style
+all/sd1.5_lowcorr_080.jpg	2.808870337	3.61477839	painted portrait of goblin man, anime style
+all/sd1.5_lowcorr_081.jpg	2.455012736	2.308233468	large purple lovecraftian void, sci-fi style
+all/sd1.5_lowcorr_084.jpg	2.776694622	1.877263811	sheep that looks like broccoli, baroque style
+all/sd1.5_lowcorr_086.jpg	2.874527714	2.116910203	a very drunk person named aaron, sci-fi style
+all/sd1.5_lowcorr_088.jpg	2.545997226	2.556888633	a space shuttle flying in space, abstract style
+all/sd1.5_lowcorr_100.jpg	3.138913035	2.736797804	a small garden buzzing with bees, anime style
+all/sd1.5_lowcorr_101.jpg	3.374371279	2.390413502	a man playing an invisible cello, sci-fi style
+all/sd1.5_lowcorr_104.jpg	3.430745058	3.433697306	a biomechanical cybertronic frog, baroque style
+all/sd1.5_lowcorr_107.jpg	2.377839033	2.885703528	spritesheet game asset vector art, realistic style
+all/sd1.5_lowcorr_110.jpg	2.043565984	2.27858641	painted portrait of intense woman, anime style
+all/sd1.5_lowcorr_113.jpg	3.150815738	3.820536448	epic colourful scene from a dream, abstract style
+all/sd1.5_lowcorr_114.jpg	3.091080213	2.703161695	donut glazed with white chocolate, baroque style
+all/sd1.5_lowcorr_119.jpg	0.278846772	0.349001592	female demon in a medieval dungeon, baroque style
+all/sd1.5_lowcorr_131.jpg	2.980532355	2.723869967	cute fluffy baby panda lion hybrid , cold color
+all/sd1.5_lowcorr_142.jpg	2.559384627	2.798535131	a biomechanical passion fruit flower, top view
+all/sd1.5_lowcorr_146.jpg	3.231077294	3.336157521	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/sd1.5_lowcorr_149.jpg	2.152199766	2.913115479	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_lowcorr_156.jpg	2.792237956	2.851195987	an adventure party resting in a tavern, blurred detail
+all/sd1.5_lowcorr_161.jpg	2.776694622	3.130750884	cute fluffy baby lop eared bunny rabbit, cold color
+all/sd1.5_lowcorr_162.jpg	3.14151795	2.996013339	an industrial geometric temple lab room, top view
+all/sd1.5_lowcorr_172.jpg	2.681789454	2.879719212	art of a mimic from dungeons and dragons, top view
+all/sd1.5_lowcorr_177.jpg	3.270286787	3.857782273	a huge wooden carving sculpture of a fox, hyper detail
+all/sd1.5_lowcorr_179.jpg	1.539115041	2.163775142	underwater photography of the rough ocean, HDR lighting
+all/sd1.5_lowcorr_188.jpg	1.702229262	2.59142422	portrait painting of a west hightland white, soft lighting, abstract style
+all/sd1.5_lowcorr_196.jpg	1.597692094	2.032736844	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/sd1.5_lowcorr_204.jpg	2.966953132	1.788774497	2 friends partying and are facing the camera, close-up, baroque style
+all/sd1.5_lowcorr_219.jpg	3.507253099	2.817848923	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/sd1.5_lowcorr_226.jpg	3.373697126	2.60460913	an anatomically correct cybertronic human heart, cold color, close-up
+all/sd1.5_lowcorr_229.jpg	2.55346049	2.790068621	a heavily bloodied horrified pretty young woman, warm color, hyper detail
+all/sd1.5_lowcorr_230.jpg	0.634718842	1.836893934	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/sd1.5_lowcorr_235.jpg	2.084303652	2.06707672	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/sd1.5_lowcorr_237.jpg	2.674859949	2.677763969	portrait of terrified green ball gown young woman, top view, long-shot
+all/sd1.5_lowcorr_245.jpg	2.047332688	1.958408052	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/sd1.5_lowcorr_246.jpg	2.251322245	2.748902277	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/sd1.5_lowcorr_247.jpg	3.252116811	3.057832635	a saint noble high priestess pray for god in church, elevation view, HDR lighting
+all/sd1.5_lowcorr_252.jpg	2.448126137	2.634901234	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/sd1.5_lowcorr_270.jpg	3.024480393	2.931303945	european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style
+all/sd1.5_lowcorr_273.jpg	3.046278569	3.373586547	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/sd1.5_lowcorr_279.jpg	3.787294638	2.714341389	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/sd1.5_lowcorr_281.jpg	1.676521125	1.934023105	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/sd1.5_lowcorr_283.jpg	2.888789697	3.153270423	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/sd1.5_lowcorr_289.jpg	1.759312513	2.919903841	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/sd1.5_lowcorr_290.jpg	2.558511788	2.213421291	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/sd1.5_lowcorr_294.jpg	2.939794687	2.857455034	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/sd1.5_lowstep_002.jpg	2.941741401	3.584646223	man lost in space
+all/sd1.5_lowstep_012.jpg	2.093677968	1.758483236	life bar and mana bar
+all/sd1.5_lowstep_016.jpg	2.822270352	2.231381244	very sad rabbit crying
+all/sd1.5_lowstep_019.jpg	0.298444431	2.355533995	big boss eating dinner
+all/sd1.5_lowstep_022.jpg	2.776694622	2.462224445	panda chef in a kitchen
+all/sd1.5_lowstep_028.jpg	1.313948351	1.920999368	maroon to black gradient
+all/sd1.5_lowstep_039.jpg	2.725708433	2.877526414	beautiful topaz girl dark
+all/sd1.5_lowstep_044.jpg	3.214375205	3.799277323	male warrior silver armor
+all/sd1.5_lowstep_051.jpg	3.34717137	3.581040815	hanging gardens of babylon
+all/sd1.5_lowstep_059.jpg	2.782759734	3.173394589	barak obama as master chief
+all/sd1.5_lowstep_061.jpg	2.871898573	3.135757257	a yellow rendition of venom, sci-fi style
+all/sd1.5_lowstep_064.jpg	2.760431848	3.531237092	monsters playing board games, baroque style
+all/sd1.5_lowstep_067.jpg	2.785504238	2.201697271	a woman in newspaper clothes, realistic style
+all/sd1.5_lowstep_069.jpg	2.92680752	3.237018522	synthwave astronaut tabby cat, baroque style
+all/sd1.5_lowstep_074.jpg	3.116324583	3.013304279	legionary of the roman empire, baroque style
+all/sd1.5_lowstep_077.jpg	2.46452189	2.7906625	a anthropomorphic cat warrior, realistic style
+all/sd1.5_lowstep_080.jpg	2.746169865	3.250810209	painted portrait of goblin man, anime style
+all/sd1.5_lowstep_081.jpg	1.642493738	3.398417097	large purple lovecraftian void, sci-fi style
+all/sd1.5_lowstep_084.jpg	3.507253099	3.754119177	sheep that looks like broccoli, baroque style
+all/sd1.5_lowstep_086.jpg	2.223207403	1.734292996	a very drunk person named aaron, sci-fi style
+all/sd1.5_lowstep_088.jpg	2.188089699	2.987495218	a space shuttle flying in space, abstract style
+all/sd1.5_lowstep_100.jpg	3.091620808	3.009178553	a small garden buzzing with bees, anime style
+all/sd1.5_lowstep_101.jpg	2.588700346	2.076296124	a man playing an invisible cello, sci-fi style
+all/sd1.5_lowstep_104.jpg	3.524162768	3.410832372	a biomechanical cybertronic frog, baroque style
+all/sd1.5_lowstep_107.jpg	2.957803829	2.891991441	spritesheet game asset vector art, realistic style
+all/sd1.5_lowstep_110.jpg	2.7089479	2.545756544	painted portrait of intense woman, anime style
+all/sd1.5_lowstep_113.jpg	1.079441167	3.046700546	epic colourful scene from a dream, abstract style
+all/sd1.5_lowstep_114.jpg	3.421003889	3.683010044	donut glazed with white chocolate, baroque style
+all/sd1.5_lowstep_119.jpg	0.45479692	1.109717072	female demon in a medieval dungeon, baroque style
+all/sd1.5_lowstep_131.jpg	3.252116811	3.10236099	cute fluffy baby panda lion hybrid , cold color
+all/sd1.5_lowstep_142.jpg	2.391896453	2.851503215	a biomechanical passion fruit flower, top view
+all/sd1.5_lowstep_146.jpg	3.058356047	3.417300183	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/sd1.5_lowstep_149.jpg	2.097882875	2.679341611	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_lowstep_156.jpg	2.179358212	2.467831921	an adventure party resting in a tavern, blurred detail
+all/sd1.5_lowstep_161.jpg	2.559576449	2.245190143	cute fluffy baby lop eared bunny rabbit, cold color
+all/sd1.5_lowstep_162.jpg	3.490797944	2.732709062	an industrial geometric temple lab room, top view
+all/sd1.5_lowstep_172.jpg	3.490003257	3.220800678	art of a mimic from dungeons and dragons, top view
+all/sd1.5_lowstep_177.jpg	3.231255627	3.623752433	a huge wooden carving sculpture of a fox, hyper detail
+all/sd1.5_lowstep_179.jpg	2.83450926	3.102285456	underwater photography of the rough ocean, HDR lighting
+all/sd1.5_lowstep_188.jpg	1.594706548	1.94279623	portrait painting of a west hightland white, soft lighting, abstract style
+all/sd1.5_lowstep_196.jpg	2.061594671	2.275412354	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/sd1.5_lowstep_204.jpg	2.81361908	3.147905927	2 friends partying and are facing the camera, close-up, baroque style
+all/sd1.5_lowstep_219.jpg	2.912021026	2.726102068	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/sd1.5_lowstep_226.jpg	3.024480393	3.353107804	an anatomically correct cybertronic human heart, cold color, close-up
+all/sd1.5_lowstep_229.jpg	1.711133213	2.956517697	a heavily bloodied horrified pretty young woman, warm color, hyper detail
+all/sd1.5_lowstep_230.jpg	0.367627845	0.776684236	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/sd1.5_lowstep_235.jpg	3.531316317	2.784549692	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/sd1.5_lowstep_237.jpg	3.1806835	2.181720144	portrait of terrified green ball gown young woman, top view, long-shot
+all/sd1.5_lowstep_245.jpg	0.690948526	1.141487573	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/sd1.5_lowstep_246.jpg	2.844740127	2.879719212	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/sd1.5_lowstep_247.jpg	2.193472252	2.75903949	a saint noble high priestess pray for god in church, elevation view, HDR lighting
+all/sd1.5_lowstep_252.jpg	3.673501579	2.504517295	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/sd1.5_lowstep_270.jpg	3.102719445	3.214232789	european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style
+all/sd1.5_lowstep_273.jpg	3.494295005	3.634307323	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/sd1.5_lowstep_279.jpg	3.607224609	3.10133505	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/sd1.5_lowstep_281.jpg	2.975194143	3.61477839	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/sd1.5_lowstep_283.jpg	3.958236395	3.158021435	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/sd1.5_lowstep_289.jpg	3.283005153	3.351167422	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/sd1.5_lowstep_290.jpg	2.161765422	2.225272813	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/sd1.5_lowstep_294.jpg	2.94583763	2.592416657	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/sd1.5_normal_002.jpg	2.7089479	3.191417702	man lost in space
+all/sd1.5_normal_012.jpg	2.989757839	2.142312157	life bar and mana bar
+all/sd1.5_normal_016.jpg	3.744508689	2.141295149	very sad rabbit crying
+all/sd1.5_normal_019.jpg	2.179358212	2.389907299	big boss eating dinner
+all/sd1.5_normal_022.jpg	2.600314118	2.868587123	panda chef in a kitchen
+all/sd1.5_normal_028.jpg	2.903508628	1.229744947	maroon to black gradient
+all/sd1.5_normal_039.jpg	3.333592147	2.835190856	beautiful topaz girl dark
+all/sd1.5_normal_044.jpg	2.899057018	3.146889346	male warrior silver armor
+all/sd1.5_normal_051.jpg	3.279275256	3.592172903	hanging gardens of babylon
+all/sd1.5_normal_059.jpg	2.926215464	3.158021435	barak obama as master chief
+all/sd1.5_normal_061.jpg	2.14357511	2.548396068	a yellow rendition of venom, sci-fi style
+all/sd1.5_normal_064.jpg	2.518413241	2.999704571	monsters playing board games, baroque style
+all/sd1.5_normal_067.jpg	3.058356047	1.77164845	a woman in newspaper clothes, realistic style
+all/sd1.5_normal_069.jpg	3.169097903	1.877263811	synthwave astronaut tabby cat, baroque style
+all/sd1.5_normal_074.jpg	3.428646707	3.10236099	legionary of the roman empire, baroque style
+all/sd1.5_normal_077.jpg	2.560585504	2.840103111	a anthropomorphic cat warrior, realistic style
+all/sd1.5_normal_080.jpg	2.210104633	3.232987189	painted portrait of goblin man, anime style
+all/sd1.5_normal_081.jpg	1.237266363	2.629356055	large purple lovecraftian void, sci-fi style
+all/sd1.5_normal_084.jpg	3.199282771	3.214316689	sheep that looks like broccoli, baroque style
+all/sd1.5_normal_086.jpg	2.65595515	2.283154863	a very drunk person named aaron, sci-fi style
+all/sd1.5_normal_088.jpg	1.933236823	2.092525257	a space shuttle flying in space, abstract style
+all/sd1.5_normal_100.jpg	2.701159713	3.489909055	a small garden buzzing with bees, anime style
+all/sd1.5_normal_101.jpg	2.542752246	2.969682911	a man playing an invisible cello, sci-fi style
+all/sd1.5_normal_104.jpg	2.804002459	3.358399036	a biomechanical cybertronic frog, baroque style
+all/sd1.5_normal_107.jpg	2.85831935	2.835190856	spritesheet game asset vector art, realistic style
+all/sd1.5_normal_110.jpg	2.423784221	2.890851301	painted portrait of intense woman, anime style
+all/sd1.5_normal_113.jpg	2.66201084	3.1259885	epic colourful scene from a dream, abstract style
+all/sd1.5_normal_114.jpg	3.031344688	3.174942147	donut glazed with white chocolate, baroque style
+all/sd1.5_normal_119.jpg	2.090510173	3.075619946	female demon in a medieval dungeon, baroque style
+all/sd1.5_normal_131.jpg	3.718303223	1.933414643	cute fluffy baby panda lion hybrid , cold color
+all/sd1.5_normal_142.jpg	3.129903806	3.00217219	a biomechanical passion fruit flower, top view
+all/sd1.5_normal_146.jpg	3.601888857	3.543429565	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/sd1.5_normal_149.jpg	2.67293154	3.013543571	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_normal_156.jpg	2.831741764	3.275195155	an adventure party resting in a tavern, blurred detail
+all/sd1.5_normal_161.jpg	3.136939761	3.239106761	cute fluffy baby lop eared bunny rabbit, cold color
+all/sd1.5_normal_162.jpg	3.472753415	3.374870467	an industrial geometric temple lab room, top view
+all/sd1.5_normal_172.jpg	1.921352979	2.47896401	art of a mimic from dungeons and dragons, top view
+all/sd1.5_normal_177.jpg	3.773548415	3.469961038	a huge wooden carving sculpture of a fox, hyper detail
+all/sd1.5_normal_179.jpg	2.317014	2.995621756	underwater photography of the rough ocean, HDR lighting
+all/sd1.5_normal_188.jpg	2.075516212	2.414897168	portrait painting of a west hightland white, soft lighting, abstract style
+all/sd1.5_normal_196.jpg	3.018173564	3.047185079	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/sd1.5_normal_204.jpg	3.195617381	2.727992245	2 friends partying and are facing the camera, close-up, baroque style
+all/sd1.5_normal_219.jpg	3.440761714	2.856177525	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/sd1.5_normal_226.jpg	2.722527122	3.169153524	an anatomically correct cybertronic human heart, cold color, close-up
+all/sd1.5_normal_229.jpg	3.240419025	3.497739298	a heavily bloodied horrified pretty young woman, warm color, hyper detail
+all/sd1.5_normal_230.jpg	2.489938377	2.796487664	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/sd1.5_normal_235.jpg	3.559002625	2.888958056	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/sd1.5_normal_237.jpg	2.213514948	2.74673979	portrait of terrified green ball gown young woman, top view, long-shot
+all/sd1.5_normal_245.jpg	2.867071995	2.268627069	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/sd1.5_normal_246.jpg	2.646335983	2.616801603	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/sd1.5_normal_247.jpg	2.776694622	2.891991441	a saint noble high priestess pray for god in church, elevation view, HDR lighting
+all/sd1.5_normal_252.jpg	3.129903806	2.634813255	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/sd1.5_normal_270.jpg	2.831741764	3.165462896	european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style
+all/sd1.5_normal_273.jpg	3.202553327	3.37273494	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/sd1.5_normal_279.jpg	2.817259418	2.983770234	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/sd1.5_normal_281.jpg	2.972896262	2.617418083	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/sd1.5_normal_283.jpg	3.333743653	2.62350113	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/sd1.5_normal_289.jpg	2.541261946	2.734888268	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/sd1.5_normal_290.jpg	2.321609349	2.30429821	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/sd1.5_normal_294.jpg	3.024257523	2.663779134	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/xl2.2_normal_002.jpg	3.748750887	3.410425033	man lost in space
+all/xl2.2_normal_012.jpg	3.601888857	1.019587617	life bar and mana bar
+all/xl2.2_normal_016.jpg	3.395484412	2.307030807	very sad rabbit crying
+all/xl2.2_normal_019.jpg	3.369254363	2.960067189	big boss eating dinner
+all/xl2.2_normal_022.jpg	2.954193289	3.877512601	panda chef in a kitchen
+all/xl2.2_normal_028.jpg	3.908627165	2.199589058	maroon to black gradient
+all/xl2.2_normal_039.jpg	3.510122043	3.558776637	beautiful topaz girl dark
+all/xl2.2_normal_044.jpg	3.479361124	3.857782273	male warrior silver armor
+all/xl2.2_normal_051.jpg	3.165054602	3.478508951	hanging gardens of babylon
+all/xl2.2_normal_059.jpg	3.835000098	3.5526433	barak obama as master chief
+all/xl2.2_normal_061.jpg	3.235341707	3.364507908	a yellow rendition of venom, sci-fi style
+all/xl2.2_normal_064.jpg	3.837774272	3.882612824	monsters playing board games, baroque style
+all/xl2.2_normal_067.jpg	3.613766055	3.572230948	a woman in newspaper clothes, realistic style
+all/xl2.2_normal_069.jpg	3.421003889	3.363018944	synthwave astronaut tabby cat, baroque style
+all/xl2.2_normal_074.jpg	3.255352906	2.839729721	legionary of the roman empire, baroque style
+all/xl2.2_normal_077.jpg	3.345173159	3.592199458	a anthropomorphic cat warrior, realistic style
+all/xl2.2_normal_080.jpg	2.956675282	4.081257224	painted portrait of goblin man, anime style
+all/xl2.2_normal_081.jpg	1.827559877	2.271926577	large purple lovecraftian void, sci-fi style
+all/xl2.2_normal_084.jpg	3.679751519	3.197097634	sheep that looks like broccoli, baroque style
+all/xl2.2_normal_086.jpg	3.984089334	1.9250157	a very drunk person named aaron, sci-fi style
+all/xl2.2_normal_088.jpg	2.284650629	2.144474319	a space shuttle flying in space, abstract style
+all/xl2.2_normal_100.jpg	3.135881857	3.882612824	a small garden buzzing with bees, anime style
+all/xl2.2_normal_101.jpg	2.747600946	3.013543571	a man playing an invisible cello, sci-fi style
+all/xl2.2_normal_104.jpg	3.714251203	3.671158522	a biomechanical cybertronic frog, baroque style
+all/xl2.2_normal_107.jpg	3.235341707	2.794502694	spritesheet game asset vector art, realistic style
+all/xl2.2_normal_110.jpg	3.972998834	3.659307	painted portrait of intense woman, anime style
+all/xl2.2_normal_113.jpg	2.586734895	3.380663214	epic colourful scene from a dream, abstract style
+all/xl2.2_normal_114.jpg	3.472753415	3.481534167	donut glazed with white chocolate, baroque style
+all/xl2.2_normal_119.jpg	2.052257794	3.178502772	female demon in a medieval dungeon, baroque style
+all/xl2.2_normal_131.jpg	3.193169444	3.068105197	cute fluffy baby panda lion hybrid , cold color
+all/xl2.2_normal_142.jpg	3.195617381	3.907443374	a biomechanical passion fruit flower, top view
+all/xl2.2_normal_146.jpg	3.474317862	3.455708742	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/xl2.2_normal_149.jpg	3.199282771	3.369510326	a plasticine model of a goblin raider, HDR lighting
+all/xl2.2_normal_156.jpg	3.214375205	3.584393825	an adventure party resting in a tavern, blurred detail
+all/xl2.2_normal_161.jpg	3.701722739	3.665354297	cute fluffy baby lop eared bunny rabbit, cold color
+all/xl2.2_normal_162.jpg	3.673501579	2.653500595	an industrial geometric temple lab room, top view
+all/xl2.2_normal_172.jpg	2.771446817	2.429699357	art of a mimic from dungeons and dragons, top view
+all/xl2.2_normal_177.jpg	3.835000098	2.308233468	a huge wooden carving sculpture of a fox, hyper detail
+all/xl2.2_normal_179.jpg	3.017147546	3.116693004	underwater photography of the rough ocean, HDR lighting
+all/xl2.2_normal_188.jpg	3.818072561	3.094936968	portrait painting of a west hightland white, soft lighting, abstract style
+all/xl2.2_normal_196.jpg	2.161428554	2.299797301	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/xl2.2_normal_204.jpg	4.39158505	3.739587462	2 friends partying and are facing the camera, close-up, baroque style
+all/xl2.2_normal_219.jpg	3.91009791	3.10230551	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/xl2.2_normal_226.jpg	3.131243411	3.165462896	an anatomically correct cybertronic human heart, cold color, close-up
+all/xl2.2_normal_229.jpg	3.833164995	3.476952075	a heavily bloodied horrified pretty young woman, warm color, hyper detail
+all/xl2.2_normal_230.jpg	3.344956193	3.286679622	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/xl2.2_normal_235.jpg	3.010422973	3.079505301	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/xl2.2_normal_237.jpg	3.878442297	3.715711518	portrait of terrified green ball gown young woman, top view, long-shot
+all/xl2.2_normal_245.jpg	3.196755943	3.007473278	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/xl2.2_normal_246.jpg	2.821971923	2.54579025	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/xl2.2_normal_247.jpg	3.30015455	2.740407521	a saint noble high priestess pray for god in church, elevation view, HDR lighting
+all/xl2.2_normal_252.jpg	2.785504238	3.42150843	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/xl2.2_normal_270.jpg	2.788955814	3.080115584	european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style
+all/xl2.2_normal_273.jpg	2.996365552	3.079505301	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/xl2.2_normal_279.jpg	3.202553327	2.958190852	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/xl2.2_normal_281.jpg	2.852156791	2.247340947	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/xl2.2_normal_283.jpg	3.240419025	2.914221371	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/xl2.2_normal_289.jpg	3.375915916	2.805902798	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/xl2.2_normal_290.jpg	3.360750593	3.224813969	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/xl2.2_normal_294.jpg	2.926215464	2.222925965	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
